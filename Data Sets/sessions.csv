@@ -1,0 +1,1831 @@
+session_id,date,customer_id,channel,device,landing_page,sessions,bounces
+S20250401-Pa-De-6293,2025-04-01,,Paid Search,Desktop,/,83,30
+S20250401-Pa-Mo-8259,2025-04-01,,Paid Search,Mobile,/,125,44
+S20250401-Pa-De-1299,2025-04-01,,Paid Social,Desktop,/,81,41
+S20250401-Pa-Mo-3386,2025-04-01,,Paid Social,Mobile,/,109,56
+S20250401-Em-De-8242,2025-04-01,,Email,Desktop,/,4,1
+S20250401-Em-Mo-7131,2025-04-01,,Email,Mobile,/,68,24
+S20250401-Or-De-6948,2025-04-01,,Organic,Desktop,/,34,11
+S20250401-Or-Mo-2805,2025-04-01,,Organic,Mobile,/,155,52
+S20250401-Re-De-1067,2025-04-01,,Referral,Desktop,/,35,12
+S20250401-Re-Mo-5089,2025-04-01,,Referral,Mobile,/,22,8
+S20250402-Pa-De-7201,2025-04-02,,Paid Search,Desktop,/,98,45
+S20250402-Pa-Mo-3640,2025-04-02,,Paid Search,Mobile,/,15,7
+S20250402-Pa-De-9628,2025-04-02,,Paid Social,Desktop,/,8,3
+S20250402-Pa-Mo-3365,2025-04-02,,Paid Social,Mobile,/,106,46
+S20250402-Em-De-7383,2025-04-02,,Email,Desktop,/,22,6
+S20250402-Em-Mo-2489,2025-04-02,,Email,Mobile,/,25,7
+S20250402-Or-De-3327,2025-04-02,,Organic,Desktop,/,28,9
+S20250402-Or-Mo-3784,2025-04-02,,Organic,Mobile,/,98,32
+S20250402-Re-De-6691,2025-04-02,,Referral,Desktop,/,7,1
+S20250402-Re-Mo-4532,2025-04-02,,Referral,Mobile,/,18,4
+S20250403-Pa-De-9102,2025-04-03,,Paid Search,Desktop,/,139,48
+S20250403-Pa-Mo-7025,2025-04-03,,Paid Search,Mobile,/,31,11
+S20250403-Pa-De-3934,2025-04-03,,Paid Social,Desktop,/,62,28
+S20250403-Pa-Mo-6917,2025-04-03,,Paid Social,Mobile,/,65,29
+S20250403-Em-De-3274,2025-04-03,,Email,Desktop,/,5,1
+S20250403-Em-Mo-4972,2025-04-03,,Email,Mobile,/,44,14
+S20250403-Or-De-6251,2025-04-03,,Organic,Desktop,/,38,12
+S20250403-Or-Mo-4499,2025-04-03,,Organic,Mobile,/,135,44
+S20250403-Re-De-6782,2025-04-03,,Referral,Desktop,/,5,1
+S20250403-Re-Mo-8926,2025-04-03,,Referral,Mobile,/,27,7
+S20250404-Pa-De-4405,2025-04-04,,Paid Search,Desktop,/,37,14
+S20250404-Pa-Mo-5494,2025-04-04,,Paid Search,Mobile,/,86,33
+S20250404-Pa-De-9086,2025-04-04,,Paid Social,Desktop,/,33,17
+S20250404-Pa-Mo-2666,2025-04-04,,Paid Social,Mobile,/,65,34
+S20250404-Em-De-7051,2025-04-04,,Email,Desktop,/,7,3
+S20250404-Em-Mo-5115,2025-04-04,,Email,Mobile,/,29,14
+S20250404-Or-De-1368,2025-04-04,,Organic,Desktop,/,7,2
+S20250404-Or-Mo-3849,2025-04-04,,Organic,Mobile,/,95,32
+S20250404-Re-De-1059,2025-04-04,,Referral,Desktop,/,11,5
+S20250404-Re-Mo-1544,2025-04-04,,Referral,Mobile,/,13,6
+S20250405-Pa-De-9992,2025-04-05,,Paid Search,Desktop,/,34,12
+S20250405-Pa-Mo-2485,2025-04-05,,Paid Search,Mobile,/,154,55
+S20250405-Pa-De-1568,2025-04-05,,Paid Social,Desktop,/,71,36
+S20250405-Pa-Mo-7490,2025-04-05,,Paid Social,Mobile,/,118,59
+S20250405-Em-De-8711,2025-04-05,,Email,Desktop,/,41,8
+S20250405-Em-Mo-5357,2025-04-05,,Email,Mobile,/,52,9
+S20250405-Or-De-3380,2025-04-05,,Organic,Desktop,/,150,49
+S20250405-Or-Mo-5560,2025-04-05,,Organic,Mobile,/,88,29
+S20250405-Re-De-3407,2025-04-05,,Referral,Desktop,/,38,13
+S20250405-Re-Mo-6497,2025-04-05,,Referral,Mobile,/,13,4
+S20250406-Pa-De-8169,2025-04-06,,Paid Search,Desktop,/,4,1
+S20250406-Pa-Mo-3121,2025-04-06,,Paid Search,Mobile,/,161,56
+S20250406-Pa-De-4478,2025-04-06,,Paid Social,Desktop,/,51,24
+S20250406-Pa-Mo-9353,2025-04-06,,Paid Social,Mobile,/,65,31
+S20250406-Em-De-1504,2025-04-06,,Email,Desktop,/,13,3
+S20250406-Em-Mo-8467,2025-04-06,,Email,Mobile,/,57,14
+S20250406-Or-De-7900,2025-04-06,,Organic,Desktop,/,17,5
+S20250406-Or-Mo-3160,2025-04-06,,Organic,Mobile,/,145,42
+S20250406-Re-De-5497,2025-04-06,,Referral,Desktop,/,10,3
+S20250406-Re-Mo-7976,2025-04-06,,Referral,Mobile,/,20,6
+S20250407-Pa-De-1651,2025-04-07,,Paid Search,Desktop,/,2,0
+S20250407-Pa-Mo-2050,2025-04-07,,Paid Search,Mobile,/,102,37
+S20250407-Pa-De-1202,2025-04-07,,Paid Social,Desktop,/,38,16
+S20250407-Pa-Mo-1941,2025-04-07,,Paid Social,Mobile,/,62,27
+S20250407-Em-De-1531,2025-04-07,,Email,Desktop,/,5,1
+S20250407-Em-Mo-2035,2025-04-07,,Email,Mobile,/,39,10
+S20250407-Or-De-6699,2025-04-07,,Organic,Desktop,/,48,15
+S20250407-Or-Mo-6922,2025-04-07,,Organic,Mobile,/,62,19
+S20250407-Re-De-9390,2025-04-07,,Referral,Desktop,/,7,2
+S20250407-Re-Mo-4232,2025-04-07,,Referral,Mobile,/,30,7
+S20250408-Pa-De-5010,2025-04-08,,Paid Search,Desktop,/,21,8
+S20250408-Pa-Mo-5986,2025-04-08,,Paid Search,Mobile,/,127,48
+S20250408-Pa-De-2371,2025-04-08,,Paid Social,Desktop,/,16,8
+S20250408-Pa-Mo-2074,2025-04-08,,Paid Social,Mobile,/,109,51
+S20250408-Em-De-6496,2025-04-08,,Email,Desktop,/,9,3
+S20250408-Em-Mo-9688,2025-04-08,,Email,Mobile,/,40,12
+S20250408-Or-De-1728,2025-04-08,,Organic,Desktop,/,119,41
+S20250408-Or-Mo-2287,2025-04-08,,Organic,Mobile,/,44,15
+S20250408-Re-De-6107,2025-04-08,,Referral,Desktop,/,17,5
+S20250408-Re-Mo-5706,2025-04-08,,Referral,Mobile,/,24,8
+S20250409-Pa-De-4172,2025-04-09,,Paid Search,Desktop,/,89,35
+S20250409-Pa-Mo-9185,2025-04-09,,Paid Search,Mobile,/,44,17
+S20250409-Pa-De-9316,2025-04-09,,Paid Social,Desktop,/,84,39
+S20250409-Pa-Mo-9503,2025-04-09,,Paid Social,Mobile,/,30,14
+S20250409-Em-De-3846,2025-04-09,,Email,Desktop,/,25,5
+S20250409-Em-Mo-7817,2025-04-09,,Email,Mobile,/,35,7
+S20250409-Or-De-5275,2025-04-09,,Organic,Desktop,/,11,4
+S20250409-Or-Mo-6538,2025-04-09,,Organic,Mobile,/,126,51
+S20250409-Re-De-1247,2025-04-09,,Referral,Desktop,/,9,3
+S20250409-Re-Mo-5378,2025-04-09,,Referral,Mobile,/,20,7
+S20250410-Pa-De-1882,2025-04-10,,Paid Search,Desktop,/,23,8
+S20250410-Pa-Mo-1393,2025-04-10,,Paid Search,Mobile,/,95,32
+S20250410-Pa-De-9011,2025-04-10,,Paid Social,Desktop,/,96,46
+S20250410-Pa-Mo-8078,2025-04-10,,Paid Social,Mobile,/,33,15
+S20250410-Em-De-9071,2025-04-10,,Email,Desktop,/,47,7
+S20250410-Em-Mo-8013,2025-04-10,,Email,Mobile,/,11,1
+S20250410-Or-De-5568,2025-04-10,,Organic,Desktop,/,41,12
+S20250410-Or-Mo-4459,2025-04-10,,Organic,Mobile,/,82,24
+S20250410-Re-De-9451,2025-04-10,,Referral,Desktop,/,18,9
+S20250410-Re-Mo-5736,2025-04-10,,Referral,Mobile,/,12,5
+S20250411-Pa-De-6492,2025-04-11,,Paid Search,Desktop,/,15,6
+S20250411-Pa-Mo-5999,2025-04-11,,Paid Search,Mobile,/,170,66
+S20250411-Pa-De-6229,2025-04-11,,Paid Social,Desktop,/,15,7
+S20250411-Pa-Mo-3241,2025-04-11,,Paid Social,Mobile,/,123,63
+S20250411-Em-De-7815,2025-04-11,,Email,Desktop,/,48,15
+S20250411-Em-Mo-5864,2025-04-11,,Email,Mobile,/,19,6
+S20250411-Or-De-6945,2025-04-11,,Organic,Desktop,/,1,0
+S20250411-Or-Mo-8691,2025-04-11,,Organic,Mobile,/,197,67
+S20250411-Re-De-5661,2025-04-11,,Referral,Desktop,/,17,4
+S20250411-Re-Mo-3398,2025-04-11,,Referral,Mobile,/,25,5
+S20250412-Pa-De-9313,2025-04-12,,Paid Search,Desktop,/,8,2
+S20250412-Pa-Mo-5961,2025-04-12,,Paid Search,Mobile,/,125,37
+S20250412-Pa-De-2393,2025-04-12,,Paid Social,Desktop,/,39,17
+S20250412-Pa-Mo-3023,2025-04-12,,Paid Social,Mobile,/,75,33
+S20250412-Em-De-3057,2025-04-12,,Email,Desktop,/,28,7
+S20250412-Em-Mo-8996,2025-04-12,,Email,Mobile,/,26,7
+S20250412-Or-De-1760,2025-04-12,,Organic,Desktop,/,80,29
+S20250412-Or-Mo-9965,2025-04-12,,Organic,Mobile,/,47,17
+S20250412-Re-De-6006,2025-04-12,,Referral,Desktop,/,15,3
+S20250412-Re-Mo-6768,2025-04-12,,Referral,Mobile,/,17,4
+S20250413-Pa-De-2429,2025-04-13,,Paid Search,Desktop,/,110,41
+S20250413-Pa-Mo-7101,2025-04-13,,Paid Search,Mobile,/,88,33
+S20250413-Pa-De-3061,2025-04-13,,Paid Social,Desktop,/,37,20
+S20250413-Pa-Mo-6175,2025-04-13,,Paid Social,Mobile,/,141,78
+S20250413-Em-De-1077,2025-04-13,,Email,Desktop,/,64,19
+S20250413-Em-Mo-3159,2025-04-13,,Email,Mobile,/,23,6
+S20250413-Or-De-4062,2025-04-13,,Organic,Desktop,/,16,4
+S20250413-Or-Mo-9316,2025-04-13,,Organic,Mobile,/,189,57
+S20250413-Re-De-2966,2025-04-13,,Referral,Desktop,/,13,3
+S20250413-Re-Mo-5969,2025-04-13,,Referral,Mobile,/,31,8
+S20250414-Pa-De-2334,2025-04-14,,Paid Search,Desktop,/,20,6
+S20250414-Pa-Mo-1667,2025-04-14,,Paid Search,Mobile,/,148,46
+S20250414-Pa-De-7230,2025-04-14,,Paid Social,Desktop,/,3,1
+S20250414-Pa-Mo-1100,2025-04-14,,Paid Social,Mobile,/,151,71
+S20250414-Em-De-4167,2025-04-14,,Email,Desktop,/,16,6
+S20250414-Em-Mo-6380,2025-04-14,,Email,Mobile,/,66,25
+S20250414-Or-De-9663,2025-04-14,,Organic,Desktop,/,31,11
+S20250414-Or-Mo-3214,2025-04-14,,Organic,Mobile,/,125,44
+S20250414-Re-De-6334,2025-04-14,,Referral,Desktop,/,26,12
+S20250414-Re-Mo-7830,2025-04-14,,Referral,Mobile,/,27,12
+S20250415-Pa-De-2949,2025-04-15,,Paid Search,Desktop,/,61,20
+S20250415-Pa-Mo-9272,2025-04-15,,Paid Search,Mobile,/,108,37
+S20250415-Pa-De-7710,2025-04-15,,Paid Social,Desktop,/,14,6
+S20250415-Pa-Mo-9516,2025-04-15,,Paid Social,Mobile,/,139,68
+S20250415-Em-De-3704,2025-04-15,,Email,Desktop,/,53,13
+S20250415-Em-Mo-7260,2025-04-15,,Email,Mobile,/,9,2
+S20250415-Or-De-3258,2025-04-15,,Organic,Desktop,/,60,18
+S20250415-Or-Mo-4862,2025-04-15,,Organic,Mobile,/,116,35
+S20250415-Re-De-9608,2025-04-15,,Referral,Desktop,/,6,1
+S20250415-Re-Mo-5941,2025-04-15,,Referral,Mobile,/,32,10
+S20250416-Pa-De-6156,2025-04-16,,Paid Search,Desktop,/,79,34
+S20250416-Pa-Mo-6773,2025-04-16,,Paid Search,Mobile,/,57,24
+S20250416-Pa-De-4727,2025-04-16,,Paid Social,Desktop,/,52,28
+S20250416-Pa-Mo-4996,2025-04-16,,Paid Social,Mobile,/,40,22
+S20250416-Em-De-5345,2025-04-16,,Email,Desktop,/,9,3
+S20250416-Em-Mo-9174,2025-04-16,,Email,Mobile,/,42,16
+S20250416-Or-De-7505,2025-04-16,,Organic,Desktop,/,6,2
+S20250416-Or-Mo-7387,2025-04-16,,Organic,Mobile,/,87,32
+S20250416-Re-De-6255,2025-04-16,,Referral,Desktop,/,11,4
+S20250416-Re-Mo-3688,2025-04-16,,Referral,Mobile,/,19,8
+S20250417-Pa-De-4343,2025-04-17,,Paid Search,Desktop,/,39,14
+S20250417-Pa-Mo-1065,2025-04-17,,Paid Search,Mobile,/,179,64
+S20250417-Pa-De-6585,2025-04-17,,Paid Social,Desktop,/,62,30
+S20250417-Pa-Mo-9554,2025-04-17,,Paid Social,Mobile,/,137,65
+S20250417-Em-De-7157,2025-04-17,,Email,Desktop,/,2,0
+S20250417-Em-Mo-4864,2025-04-17,,Email,Mobile,/,103,31
+S20250417-Or-De-6318,2025-04-17,,Organic,Desktop,/,30,10
+S20250417-Or-Mo-6000,2025-04-17,,Organic,Mobile,/,205,66
+S20250417-Re-De-6863,2025-04-17,,Referral,Desktop,/,1,0
+S20250417-Re-Mo-1956,2025-04-17,,Referral,Mobile,/,49,12
+S20250418-Pa-De-3803,2025-04-18,,Paid Search,Desktop,/,31,13
+S20250418-Pa-Mo-2024,2025-04-18,,Paid Search,Mobile,/,65,27
+S20250418-Pa-De-1811,2025-04-18,,Paid Social,Desktop,/,65,31
+S20250418-Pa-Mo-6456,2025-04-18,,Paid Social,Mobile,/,33,16
+S20250418-Em-De-9011,2025-04-18,,Email,Desktop,/,9,2
+S20250418-Em-Mo-1431,2025-04-18,,Email,Mobile,/,29,8
+S20250418-Or-De-9672,2025-04-18,,Organic,Desktop,/,13,5
+S20250418-Or-Mo-9968,2025-04-18,,Organic,Mobile,/,99,36
+S20250418-Re-De-8326,2025-04-18,,Referral,Desktop,/,13,7
+S20250418-Re-Mo-9469,2025-04-18,,Referral,Mobile,/,16,8
+S20250419-Pa-De-5337,2025-04-19,,Paid Search,Desktop,/,25,7
+S20250419-Pa-Mo-6094,2025-04-19,,Paid Search,Mobile,/,54,16
+S20250419-Pa-De-3017,2025-04-19,,Paid Social,Desktop,/,40,21
+S20250419-Pa-Mo-5223,2025-04-19,,Paid Social,Mobile,/,22,12
+S20250419-Em-De-4856,2025-04-19,,Email,Desktop,/,3,1
+S20250419-Em-Mo-1050,2025-04-19,,Email,Mobile,/,28,11
+S20250419-Or-De-9557,2025-04-19,,Organic,Desktop,/,17,3
+S20250419-Or-Mo-7030,2025-04-19,,Organic,Mobile,/,59,12
+S20250419-Re-De-7085,2025-04-19,,Referral,Desktop,/,2,0
+S20250419-Re-Mo-1234,2025-04-19,,Referral,Mobile,/,9,1
+S20250420-Pa-De-1033,2025-04-20,,Paid Search,Desktop,/,54,19
+S20250420-Pa-Mo-4032,2025-04-20,,Paid Search,Mobile,/,210,74
+S20250420-Pa-De-2256,2025-04-20,,Paid Social,Desktop,/,64,30
+S20250420-Pa-Mo-4240,2025-04-20,,Paid Social,Mobile,/,158,75
+S20250420-Em-De-8634,2025-04-20,,Email,Desktop,/,36,10
+S20250420-Em-Mo-5957,2025-04-20,,Email,Mobile,/,65,18
+S20250420-Or-De-1305,2025-04-20,,Organic,Desktop,/,13,4
+S20250420-Or-Mo-2384,2025-04-20,,Organic,Mobile,/,245,77
+S20250420-Re-De-2276,2025-04-20,,Referral,Desktop,/,54,17
+S20250420-Re-Mo-7553,2025-04-20,,Referral,Mobile,/,5,1
+S20250421-Pa-De-8739,2025-04-21,,Paid Search,Desktop,/,158,61
+S20250421-Pa-Mo-7844,2025-04-21,,Paid Search,Mobile,/,33,12
+S20250421-Pa-De-3006,2025-04-21,,Paid Social,Desktop,/,48,26
+S20250421-Pa-Mo-6213,2025-04-21,,Paid Social,Mobile,/,136,74
+S20250421-Em-De-1846,2025-04-21,,Email,Desktop,/,66,18
+S20250421-Em-Mo-8521,2025-04-21,,Email,Mobile,/,18,4
+S20250421-Or-De-3293,2025-04-21,,Organic,Desktop,/,120,42
+S20250421-Or-Mo-1674,2025-04-21,,Organic,Mobile,/,70,25
+S20250421-Re-De-1797,2025-04-21,,Referral,Desktop,/,19,6
+S20250421-Re-Mo-8121,2025-04-21,,Referral,Mobile,/,34,11
+S20250422-Pa-De-2561,2025-04-22,,Paid Search,Desktop,/,67,28
+S20250422-Pa-Mo-8859,2025-04-22,,Paid Search,Mobile,/,74,31
+S20250422-Pa-De-8227,2025-04-22,,Paid Social,Desktop,/,27,13
+S20250422-Pa-Mo-5024,2025-04-22,,Paid Social,Mobile,/,99,49
+S20250422-Em-De-9886,2025-04-22,,Email,Desktop,/,18,6
+S20250422-Em-Mo-3244,2025-04-22,,Email,Mobile,/,45,14
+S20250422-Or-De-4978,2025-04-22,,Organic,Desktop,/,34,11
+S20250422-Or-Mo-5490,2025-04-22,,Organic,Mobile,/,137,47
+S20250422-Re-De-9428,2025-04-22,,Referral,Desktop,/,24,8
+S20250422-Re-Mo-2056,2025-04-22,,Referral,Mobile,/,12,4
+S20250423-Pa-De-1717,2025-04-23,,Paid Search,Desktop,/,8,3
+S20250423-Pa-Mo-4345,2025-04-23,,Paid Search,Mobile,/,158,62
+S20250423-Pa-De-8035,2025-04-23,,Paid Social,Desktop,/,72,33
+S20250423-Pa-Mo-5230,2025-04-23,,Paid Social,Mobile,/,78,36
+S20250423-Em-De-7500,2025-04-23,,Email,Desktop,/,32,10
+S20250423-Em-Mo-1400,2025-04-23,,Email,Mobile,/,50,17
+S20250423-Or-De-4533,2025-04-23,,Organic,Desktop,/,20,5
+S20250423-Or-Mo-3618,2025-04-23,,Organic,Mobile,/,134,37
+S20250423-Re-De-7075,2025-04-23,,Referral,Desktop,/,7,2
+S20250423-Re-Mo-3047,2025-04-23,,Referral,Mobile,/,34,14
+S20250424-Pa-De-3582,2025-04-24,,Paid Search,Desktop,/,17,6
+S20250424-Pa-Mo-9505,2025-04-24,,Paid Search,Mobile,/,136,49
+S20250424-Pa-De-8819,2025-04-24,,Paid Social,Desktop,/,9,3
+S20250424-Pa-Mo-6141,2025-04-24,,Paid Social,Mobile,/,131,54
+S20250424-Em-De-7937,2025-04-24,,Email,Desktop,/,9,2
+S20250424-Em-Mo-9575,2025-04-24,,Email,Mobile,/,64,17
+S20250424-Or-De-5117,2025-04-24,,Organic,Desktop,/,20,8
+S20250424-Or-Mo-7982,2025-04-24,,Organic,Mobile,/,115,46
+S20250424-Re-De-9731,2025-04-24,,Referral,Desktop,/,9,2
+S20250424-Re-Mo-7709,2025-04-24,,Referral,Mobile,/,34,8
+S20250425-Pa-De-2535,2025-04-25,,Paid Search,Desktop,/,5,2
+S20250425-Pa-Mo-5753,2025-04-25,,Paid Search,Mobile,/,131,51
+S20250425-Pa-De-6091,2025-04-25,,Paid Social,Desktop,/,18,8
+S20250425-Pa-Mo-1518,2025-04-25,,Paid Social,Mobile,/,106,48
+S20250425-Em-De-7775,2025-04-25,,Email,Desktop,/,42,19
+S20250425-Em-Mo-7690,2025-04-25,,Email,Mobile,/,19,8
+S20250425-Or-De-4752,2025-04-25,,Organic,Desktop,/,103,36
+S20250425-Or-Mo-9852,2025-04-25,,Organic,Mobile,/,39,14
+S20250425-Re-De-1506,2025-04-25,,Referral,Desktop,/,10,3
+S20250425-Re-Mo-9599,2025-04-25,,Referral,Mobile,/,19,7
+S20250426-Pa-De-1755,2025-04-26,,Paid Search,Desktop,/,131,44
+S20250426-Pa-Mo-1145,2025-04-26,,Paid Search,Mobile,/,36,12
+S20250426-Pa-De-4518,2025-04-26,,Paid Social,Desktop,/,0,0
+S20250426-Pa-Mo-7558,2025-04-26,,Paid Social,Mobile,/,146,84
+S20250426-Em-De-6498,2025-04-26,,Email,Desktop,/,25,6
+S20250426-Em-Mo-5255,2025-04-26,,Email,Mobile,/,46,12
+S20250426-Or-De-4969,2025-04-26,,Organic,Desktop,/,48,17
+S20250426-Or-Mo-6420,2025-04-26,,Organic,Mobile,/,121,43
+S20250426-Re-De-3021,2025-04-26,,Referral,Desktop,/,13,3
+S20250426-Re-Mo-8784,2025-04-26,,Referral,Mobile,/,29,8
+S20250427-Pa-De-7087,2025-04-27,,Paid Search,Desktop,/,47,15
+S20250427-Pa-Mo-3933,2025-04-27,,Paid Search,Mobile,/,47,14
+S20250427-Pa-De-5723,2025-04-27,,Paid Social,Desktop,/,29,16
+S20250427-Pa-Mo-7886,2025-04-27,,Paid Social,Mobile,/,64,35
+S20250427-Em-De-2600,2025-04-27,,Email,Desktop,/,10,2
+S20250427-Em-Mo-3233,2025-04-27,,Email,Mobile,/,41,10
+S20250427-Or-De-2190,2025-04-27,,Organic,Desktop,/,30,7
+S20250427-Or-Mo-4210,2025-04-27,,Organic,Mobile,/,60,15
+S20250427-Re-De-8383,2025-04-27,,Referral,Desktop,/,1,0
+S20250427-Re-Mo-1269,2025-04-27,,Referral,Mobile,/,29,8
+S20250428-Pa-De-4081,2025-04-28,,Paid Search,Desktop,/,101,40
+S20250428-Pa-Mo-2747,2025-04-28,,Paid Search,Mobile,/,50,20
+S20250428-Pa-De-5397,2025-04-28,,Paid Social,Desktop,/,17,7
+S20250428-Pa-Mo-6671,2025-04-28,,Paid Social,Mobile,/,128,59
+S20250428-Em-De-2946,2025-04-28,,Email,Desktop,/,19,6
+S20250428-Em-Mo-4415,2025-04-28,,Email,Mobile,/,37,12
+S20250428-Or-De-5344,2025-04-28,,Organic,Desktop,/,107,36
+S20250428-Or-Mo-7591,2025-04-28,,Organic,Mobile,/,35,12
+S20250428-Re-De-9978,2025-04-28,,Referral,Desktop,/,25,10
+S20250428-Re-Mo-5935,2025-04-28,,Referral,Mobile,/,12,4
+S20250429-Pa-De-8959,2025-04-29,,Paid Search,Desktop,/,93,34
+S20250429-Pa-Mo-7241,2025-04-29,,Paid Search,Mobile,/,71,26
+S20250429-Pa-De-5673,2025-04-29,,Paid Social,Desktop,/,90,40
+S20250429-Pa-Mo-1337,2025-04-29,,Paid Social,Mobile,/,74,33
+S20250429-Em-De-2519,2025-04-29,,Email,Desktop,/,31,12
+S20250429-Em-Mo-7489,2025-04-29,,Email,Mobile,/,40,15
+S20250429-Or-De-5991,2025-04-29,,Organic,Desktop,/,22,8
+S20250429-Or-Mo-7794,2025-04-29,,Organic,Mobile,/,154,58
+S20250429-Re-De-7139,2025-04-29,,Referral,Desktop,/,30,8
+S20250429-Re-Mo-8199,2025-04-29,,Referral,Mobile,/,15,4
+S20250430-Pa-De-3605,2025-04-30,,Paid Search,Desktop,/,54,24
+S20250430-Pa-Mo-3538,2025-04-30,,Paid Search,Mobile,/,30,13
+S20250430-Pa-De-8165,2025-04-30,,Paid Social,Desktop,/,1,0
+S20250430-Pa-Mo-4336,2025-04-30,,Paid Social,Mobile,/,96,39
+S20250430-Em-De-1440,2025-04-30,,Email,Desktop,/,18,4
+S20250430-Em-Mo-2138,2025-04-30,,Email,Mobile,/,27,7
+S20250430-Or-De-3200,2025-04-30,,Organic,Desktop,/,50,20
+S20250430-Or-Mo-5551,2025-04-30,,Organic,Mobile,/,49,19
+S20250430-Re-De-4325,2025-04-30,,Referral,Desktop,/,11,2
+S20250430-Re-Mo-9699,2025-04-30,,Referral,Mobile,/,23,6
+S20250501-Pa-De-3677,2025-05-01,,Paid Search,Desktop,/,101,32
+S20250501-Pa-Mo-7144,2025-05-01,,Paid Search,Mobile,/,78,25
+S20250501-Pa-De-5444,2025-05-01,,Paid Social,Desktop,/,147,62
+S20250501-Pa-Mo-3964,2025-05-01,,Paid Social,Mobile,/,48,20
+S20250501-Em-De-4101,2025-05-01,,Email,Desktop,/,1,0
+S20250501-Em-Mo-4897,2025-05-01,,Email,Mobile,/,95,28
+S20250501-Or-De-2376,2025-05-01,,Organic,Desktop,/,33,10
+S20250501-Or-Mo-5719,2025-05-01,,Organic,Mobile,/,156,50
+S20250501-Re-De-4491,2025-05-01,,Referral,Desktop,/,38,12
+S20250501-Re-Mo-1789,2025-05-01,,Referral,Mobile,/,4,1
+S20250502-Pa-De-7920,2025-05-02,,Paid Search,Desktop,/,37,12
+S20250502-Pa-Mo-4398,2025-05-02,,Paid Search,Mobile,/,58,19
+S20250502-Pa-De-9195,2025-05-02,,Paid Social,Desktop,/,10,5
+S20250502-Pa-Mo-4447,2025-05-02,,Paid Social,Mobile,/,81,39
+S20250502-Em-De-6335,2025-05-02,,Email,Desktop,/,29,11
+S20250502-Em-Mo-6487,2025-05-02,,Email,Mobile,/,1,0
+S20250502-Or-De-5191,2025-05-02,,Organic,Desktop,/,32,9
+S20250502-Or-Mo-8312,2025-05-02,,Organic,Mobile,/,50,14
+S20250502-Re-De-8921,2025-05-02,,Referral,Desktop,/,3,0
+S20250502-Re-Mo-2691,2025-05-02,,Referral,Mobile,/,15,4
+S20250503-Pa-De-2444,2025-05-03,,Paid Search,Desktop,/,93,29
+S20250503-Pa-Mo-9594,2025-05-03,,Paid Search,Mobile,/,98,31
+S20250503-Pa-De-5762,2025-05-03,,Paid Social,Desktop,/,95,44
+S20250503-Pa-Mo-2753,2025-05-03,,Paid Social,Mobile,/,83,39
+S20250503-Em-De-8420,2025-05-03,,Email,Desktop,/,11,2
+S20250503-Em-Mo-9742,2025-05-03,,Email,Mobile,/,63,13
+S20250503-Or-De-4346,2025-05-03,,Organic,Desktop,/,89,28
+S20250503-Or-Mo-5054,2025-05-03,,Organic,Mobile,/,86,28
+S20250503-Re-De-5164,2025-05-03,,Referral,Desktop,/,19,5
+S20250503-Re-Mo-7720,2025-05-03,,Referral,Mobile,/,31,7
+S20250504-Pa-De-1026,2025-05-04,,Paid Search,Desktop,/,74,25
+S20250504-Pa-Mo-6161,2025-05-04,,Paid Search,Mobile,/,152,53
+S20250504-Pa-De-3924,2025-05-04,,Paid Social,Desktop,/,81,34
+S20250504-Pa-Mo-3837,2025-05-04,,Paid Social,Mobile,/,135,57
+S20250504-Em-De-7139,2025-05-04,,Email,Desktop,/,56,15
+S20250504-Em-Mo-3988,2025-05-04,,Email,Mobile,/,64,17
+S20250504-Or-De-2238,2025-05-04,,Organic,Desktop,/,28,9
+S20250504-Or-Mo-5834,2025-05-04,,Organic,Mobile,/,217,71
+S20250504-Re-De-8221,2025-05-04,,Referral,Desktop,/,39,12
+S20250504-Re-Mo-8814,2025-05-04,,Referral,Mobile,/,26,8
+S20250505-Pa-De-3601,2025-05-05,,Paid Search,Desktop,/,213,71
+S20250505-Pa-Mo-9566,2025-05-05,,Paid Search,Mobile,/,15,5
+S20250505-Pa-De-9742,2025-05-05,,Paid Social,Desktop,/,188,95
+S20250505-Pa-Mo-6425,2025-05-05,,Paid Social,Mobile,/,43,21
+S20250505-Em-De-1488,2025-05-05,,Email,Desktop,/,19,5
+S20250505-Em-Mo-6142,2025-05-05,,Email,Mobile,/,67,19
+S20250505-Or-De-3798,2025-05-05,,Organic,Desktop,/,112,33
+S20250505-Or-Mo-8603,2025-05-05,,Organic,Mobile,/,113,33
+S20250505-Re-De-4246,2025-05-05,,Referral,Desktop,/,13,4
+S20250505-Re-Mo-2316,2025-05-05,,Referral,Mobile,/,37,14
+S20250506-Pa-De-5604,2025-05-06,,Paid Search,Desktop,/,17,5
+S20250506-Pa-Mo-1616,2025-05-06,,Paid Search,Mobile,/,83,23
+S20250506-Pa-De-4534,2025-05-06,,Paid Social,Desktop,/,14,7
+S20250506-Pa-Mo-4812,2025-05-06,,Paid Social,Mobile,/,81,44
+S20250506-Em-De-6221,2025-05-06,,Email,Desktop,/,4,1
+S20250506-Em-Mo-1209,2025-05-06,,Email,Mobile,/,39,11
+S20250506-Or-De-9483,2025-05-06,,Organic,Desktop,/,56,21
+S20250506-Or-Mo-3864,2025-05-06,,Organic,Mobile,/,62,24
+S20250506-Re-De-4283,2025-05-06,,Referral,Desktop,/,2,0
+S20250506-Re-Mo-2461,2025-05-06,,Referral,Mobile,/,23,4
+S20250507-Pa-De-5051,2025-05-07,,Paid Search,Desktop,/,14,5
+S20250507-Pa-Mo-9751,2025-05-07,,Paid Search,Mobile,/,123,44
+S20250507-Pa-De-6972,2025-05-07,,Paid Social,Desktop,/,20,10
+S20250507-Pa-Mo-6368,2025-05-07,,Paid Social,Mobile,/,113,58
+S20250507-Em-De-8823,2025-05-07,,Email,Desktop,/,25,8
+S20250507-Em-Mo-5607,2025-05-07,,Email,Mobile,/,46,16
+S20250507-Or-De-7712,2025-05-07,,Organic,Desktop,/,105,34
+S20250507-Or-Mo-3023,2025-05-07,,Organic,Mobile,/,42,13
+S20250507-Re-De-1195,2025-05-07,,Referral,Desktop,/,8,2
+S20250507-Re-Mo-2106,2025-05-07,,Referral,Mobile,/,39,10
+S20250508-Pa-De-3435,2025-05-08,,Paid Search,Desktop,/,0,0
+S20250508-Pa-Mo-9370,2025-05-08,,Paid Search,Mobile,/,151,50
+S20250508-Pa-De-2283,2025-05-08,,Paid Social,Desktop,/,45,21
+S20250508-Pa-Mo-1247,2025-05-08,,Paid Social,Mobile,/,108,52
+S20250508-Em-De-1448,2025-05-08,,Email,Desktop,/,29,9
+S20250508-Em-Mo-8534,2025-05-08,,Email,Mobile,/,44,14
+S20250508-Or-De-1360,2025-05-08,,Organic,Desktop,/,77,26
+S20250508-Or-Mo-8373,2025-05-08,,Organic,Mobile,/,81,27
+S20250508-Re-De-3090,2025-05-08,,Referral,Desktop,/,7,2
+S20250508-Re-Mo-7070,2025-05-08,,Referral,Mobile,/,34,9
+S20250509-Pa-De-7214,2025-05-09,,Paid Search,Desktop,/,3,1
+S20250509-Pa-Mo-2363,2025-05-09,,Paid Search,Mobile,/,143,65
+S20250509-Pa-De-7977,2025-05-09,,Paid Social,Desktop,/,12,6
+S20250509-Pa-Mo-8896,2025-05-09,,Paid Social,Mobile,/,140,66
+S20250509-Em-De-2220,2025-05-09,,Email,Desktop,/,10,1
+S20250509-Em-Mo-5661,2025-05-09,,Email,Mobile,/,51,10
+S20250509-Or-De-5953,2025-05-09,,Organic,Desktop,/,28,9
+S20250509-Or-Mo-5314,2025-05-09,,Organic,Mobile,/,130,40
+S20250509-Re-De-6854,2025-05-09,,Referral,Desktop,/,6,2
+S20250509-Re-Mo-4712,2025-05-09,,Referral,Mobile,/,28,11
+S20250510-Pa-De-3157,2025-05-10,,Paid Search,Desktop,/,18,7
+S20250510-Pa-Mo-1581,2025-05-10,,Paid Search,Mobile,/,155,69
+S20250510-Pa-De-5005,2025-05-10,,Paid Social,Desktop,/,16,6
+S20250510-Pa-Mo-5925,2025-05-10,,Paid Social,Mobile,/,126,47
+S20250510-Em-De-9992,2025-05-10,,Email,Desktop,/,30,9
+S20250510-Em-Mo-4052,2025-05-10,,Email,Mobile,/,49,14
+S20250510-Or-De-7387,2025-05-10,,Organic,Desktop,/,19,7
+S20250510-Or-Mo-4012,2025-05-10,,Organic,Mobile,/,144,56
+S20250510-Re-De-8547,2025-05-10,,Referral,Desktop,/,2,0
+S20250510-Re-Mo-8322,2025-05-10,,Referral,Mobile,/,32,14
+S20250511-Pa-De-1063,2025-05-11,,Paid Search,Desktop,/,65,26
+S20250511-Pa-Mo-3812,2025-05-11,,Paid Search,Mobile,/,152,60
+S20250511-Pa-De-8530,2025-05-11,,Paid Social,Desktop,/,109,57
+S20250511-Pa-Mo-3728,2025-05-11,,Paid Social,Mobile,/,70,37
+S20250511-Em-De-5315,2025-05-11,,Email,Desktop,/,5,1
+S20250511-Em-Mo-2921,2025-05-11,,Email,Mobile,/,89,29
+S20250511-Or-De-1747,2025-05-11,,Organic,Desktop,/,79,28
+S20250511-Or-Mo-2321,2025-05-11,,Organic,Mobile,/,129,47
+S20250511-Re-De-7694,2025-05-11,,Referral,Desktop,/,36,8
+S20250511-Re-Mo-6006,2025-05-11,,Referral,Mobile,/,25,5
+S20250512-Pa-De-3921,2025-05-12,,Paid Search,Desktop,/,114,45
+S20250512-Pa-Mo-6679,2025-05-12,,Paid Search,Mobile,/,65,25
+S20250512-Pa-De-8273,2025-05-12,,Paid Social,Desktop,/,14,6
+S20250512-Pa-Mo-2382,2025-05-12,,Paid Social,Mobile,/,138,61
+S20250512-Em-De-7764,2025-05-12,,Email,Desktop,/,3,0
+S20250512-Em-Mo-6745,2025-05-12,,Email,Mobile,/,67,17
+S20250512-Or-De-3550,2025-05-12,,Organic,Desktop,/,46,14
+S20250512-Or-Mo-1955,2025-05-12,,Organic,Mobile,/,114,34
+S20250512-Re-De-8451,2025-05-12,,Referral,Desktop,/,35,10
+S20250512-Re-Mo-6307,2025-05-12,,Referral,Mobile,/,13,4
+S20250513-Pa-De-8604,2025-05-13,,Paid Search,Desktop,/,76,31
+S20250513-Pa-Mo-8139,2025-05-13,,Paid Search,Mobile,/,26,10
+S20250513-Pa-De-1027,2025-05-13,,Paid Social,Desktop,/,55,27
+S20250513-Pa-Mo-1265,2025-05-13,,Paid Social,Mobile,/,23,12
+S20250513-Em-De-4390,2025-05-13,,Email,Desktop,/,1,0
+S20250513-Em-Mo-1610,2025-05-13,,Email,Mobile,/,35,8
+S20250513-Or-De-1178,2025-05-13,,Organic,Desktop,/,80,29
+S20250513-Or-Mo-6817,2025-05-13,,Organic,Mobile,/,13,5
+S20250513-Re-De-6512,2025-05-13,,Referral,Desktop,/,4,1
+S20250513-Re-Mo-3983,2025-05-13,,Referral,Mobile,/,10,3
+S20250514-Pa-De-7352,2025-05-14,,Paid Search,Desktop,/,109,39
+S20250514-Pa-Mo-5808,2025-05-14,,Paid Search,Mobile,/,91,33
+S20250514-Pa-De-3184,2025-05-14,,Paid Social,Desktop,/,34,15
+S20250514-Pa-Mo-7800,2025-05-14,,Paid Social,Mobile,/,87,38
+S20250514-Em-De-2101,2025-05-14,,Email,Desktop,/,4,1
+S20250514-Em-Mo-3099,2025-05-14,,Email,Mobile,/,89,19
+S20250514-Or-De-6807,2025-05-14,,Organic,Desktop,/,47,12
+S20250514-Or-Mo-4116,2025-05-14,,Organic,Mobile,/,146,40
+S20250514-Re-De-9981,2025-05-14,,Referral,Desktop,/,8,2
+S20250514-Re-Mo-2300,2025-05-14,,Referral,Mobile,/,31,8
+S20250515-Pa-De-7373,2025-05-15,,Paid Search,Desktop,/,1,0
+S20250515-Pa-Mo-4948,2025-05-15,,Paid Search,Mobile,/,141,55
+S20250515-Pa-De-1348,2025-05-15,,Paid Social,Desktop,/,55,27
+S20250515-Pa-Mo-4651,2025-05-15,,Paid Social,Mobile,/,47,22
+S20250515-Em-De-7883,2025-05-15,,Email,Desktop,/,16,4
+S20250515-Em-Mo-2517,2025-05-15,,Email,Mobile,/,52,13
+S20250515-Or-De-1520,2025-05-15,,Organic,Desktop,/,81,32
+S20250515-Or-Mo-4576,2025-05-15,,Organic,Mobile,/,44,17
+S20250515-Re-De-5545,2025-05-15,,Referral,Desktop,/,12,2
+S20250515-Re-Mo-8793,2025-05-15,,Referral,Mobile,/,16,2
+S20250516-Pa-De-6391,2025-05-16,,Paid Search,Desktop,/,158,62
+S20250516-Pa-Mo-8657,2025-05-16,,Paid Search,Mobile,/,47,18
+S20250516-Pa-De-3376,2025-05-16,,Paid Social,Desktop,/,179,94
+S20250516-Pa-Mo-1453,2025-05-16,,Paid Social,Mobile,/,34,18
+S20250516-Em-De-7723,2025-05-16,,Email,Desktop,/,28,9
+S20250516-Em-Mo-5813,2025-05-16,,Email,Mobile,/,61,20
+S20250516-Or-De-4402,2025-05-16,,Organic,Desktop,/,40,11
+S20250516-Or-Mo-5332,2025-05-16,,Organic,Mobile,/,186,55
+S20250516-Re-De-7226,2025-05-16,,Referral,Desktop,/,21,6
+S20250516-Re-Mo-7621,2025-05-16,,Referral,Mobile,/,27,9
+S20250517-Pa-De-5383,2025-05-17,,Paid Search,Desktop,/,134,53
+S20250517-Pa-Mo-9534,2025-05-17,,Paid Search,Mobile,/,60,23
+S20250517-Pa-De-5604,2025-05-17,,Paid Social,Desktop,/,11,4
+S20250517-Pa-Mo-9813,2025-05-17,,Paid Social,Mobile,/,128,57
+S20250517-Em-De-1297,2025-05-17,,Email,Desktop,/,27,8
+S20250517-Em-Mo-9493,2025-05-17,,Email,Mobile,/,46,15
+S20250517-Or-De-3844,2025-05-17,,Organic,Desktop,/,28,10
+S20250517-Or-Mo-6623,2025-05-17,,Organic,Mobile,/,121,46
+S20250517-Re-De-1160,2025-05-17,,Referral,Desktop,/,3,1
+S20250517-Re-Mo-7460,2025-05-17,,Referral,Mobile,/,37,10
+S20250518-Pa-De-6132,2025-05-18,,Paid Search,Desktop,/,44,15
+S20250518-Pa-Mo-9864,2025-05-18,,Paid Search,Mobile,/,83,28
+S20250518-Pa-De-7745,2025-05-18,,Paid Social,Desktop,/,9,4
+S20250518-Pa-Mo-6634,2025-05-18,,Paid Social,Mobile,/,107,52
+S20250518-Em-De-9882,2025-05-18,,Email,Desktop,/,28,9
+S20250518-Em-Mo-4204,2025-05-18,,Email,Mobile,/,26,9
+S20250518-Or-De-1677,2025-05-18,,Organic,Desktop,/,107,40
+S20250518-Or-Mo-9742,2025-05-18,,Organic,Mobile,/,18,6
+S20250518-Re-De-6860,2025-05-18,,Referral,Desktop,/,6,2
+S20250518-Re-Mo-2261,2025-05-18,,Referral,Mobile,/,26,9
+S20250519-Pa-De-9096,2025-05-19,,Paid Search,Desktop,/,53,22
+S20250519-Pa-Mo-7300,2025-05-19,,Paid Search,Mobile,/,106,45
+S20250519-Pa-De-5119,2025-05-19,,Paid Social,Desktop,/,4,2
+S20250519-Pa-Mo-7640,2025-05-19,,Paid Social,Mobile,/,152,84
+S20250519-Em-De-1767,2025-05-19,,Email,Desktop,/,13,2
+S20250519-Em-Mo-5883,2025-05-19,,Email,Mobile,/,55,9
+S20250519-Or-De-8797,2025-05-19,,Organic,Desktop,/,110,34
+S20250519-Or-Mo-5161,2025-05-19,,Organic,Mobile,/,28,8
+S20250519-Re-De-4727,2025-05-19,,Referral,Desktop,/,14,3
+S20250519-Re-Mo-2356,2025-05-19,,Referral,Mobile,/,19,5
+S20250520-Pa-De-8282,2025-05-20,,Paid Search,Desktop,/,112,51
+S20250520-Pa-Mo-7951,2025-05-20,,Paid Search,Mobile,/,85,39
+S20250520-Pa-De-3392,2025-05-20,,Paid Social,Desktop,/,10,5
+S20250520-Pa-Mo-4153,2025-05-20,,Paid Social,Mobile,/,129,61
+S20250520-Em-De-4412,2025-05-20,,Email,Desktop,/,34,11
+S20250520-Em-Mo-7449,2025-05-20,,Email,Mobile,/,57,19
+S20250520-Or-De-2417,2025-05-20,,Organic,Desktop,/,104,37
+S20250520-Or-Mo-8767,2025-05-20,,Organic,Mobile,/,67,24
+S20250520-Re-De-3297,2025-05-20,,Referral,Desktop,/,1,0
+S20250520-Re-Mo-9852,2025-05-20,,Referral,Mobile,/,38,9
+S20250521-Pa-De-9444,2025-05-21,,Paid Search,Desktop,/,97,38
+S20250521-Pa-Mo-3768,2025-05-21,,Paid Search,Mobile,/,61,23
+S20250521-Pa-De-7828,2025-05-21,,Paid Social,Desktop,/,74,40
+S20250521-Pa-Mo-3190,2025-05-21,,Paid Social,Mobile,/,47,26
+S20250521-Em-De-7325,2025-05-21,,Email,Desktop,/,8,1
+S20250521-Em-Mo-2700,2025-05-21,,Email,Mobile,/,50,10
+S20250521-Or-De-3139,2025-05-21,,Organic,Desktop,/,52,17
+S20250521-Or-Mo-9399,2025-05-21,,Organic,Mobile,/,113,36
+S20250521-Re-De-7286,2025-05-21,,Referral,Desktop,/,16,5
+S20250521-Re-Mo-8936,2025-05-21,,Referral,Mobile,/,22,7
+S20250522-Pa-De-6973,2025-05-22,,Paid Search,Desktop,/,32,12
+S20250522-Pa-Mo-3086,2025-05-22,,Paid Search,Mobile,/,40,15
+S20250522-Pa-De-5835,2025-05-22,,Paid Social,Desktop,/,7,3
+S20250522-Pa-Mo-3534,2025-05-22,,Paid Social,Mobile,/,59,30
+S20250522-Em-De-3694,2025-05-22,,Email,Desktop,/,7,1
+S20250522-Em-Mo-5304,2025-05-22,,Email,Mobile,/,13,2
+S20250522-Or-De-4810,2025-05-22,,Organic,Desktop,/,0,0
+S20250522-Or-Mo-1912,2025-05-22,,Organic,Mobile,/,69,19
+S20250522-Re-De-5033,2025-05-22,,Referral,Desktop,/,0,0
+S20250522-Re-Mo-2639,2025-05-22,,Referral,Mobile,/,16,5
+S20250523-Pa-De-2999,2025-05-23,,Paid Search,Desktop,/,49,16
+S20250523-Pa-Mo-9963,2025-05-23,,Paid Search,Mobile,/,100,33
+S20250523-Pa-De-5161,2025-05-23,,Paid Social,Desktop,/,106,51
+S20250523-Pa-Mo-2336,2025-05-23,,Paid Social,Mobile,/,60,29
+S20250523-Em-De-8601,2025-05-23,,Email,Desktop,/,2,1
+S20250523-Em-Mo-6051,2025-05-23,,Email,Mobile,/,66,23
+S20250523-Or-De-8136,2025-05-23,,Organic,Desktop,/,45,14
+S20250523-Or-Mo-9344,2025-05-23,,Organic,Mobile,/,95,29
+S20250523-Re-De-1968,2025-05-23,,Referral,Desktop,/,22,8
+S20250523-Re-Mo-8320,2025-05-23,,Referral,Mobile,/,19,7
+S20250524-Pa-De-8097,2025-05-24,,Paid Search,Desktop,/,60,20
+S20250524-Pa-Mo-9292,2025-05-24,,Paid Search,Mobile,/,110,37
+S20250524-Pa-De-6057,2025-05-24,,Paid Social,Desktop,/,37,17
+S20250524-Pa-Mo-9478,2025-05-24,,Paid Social,Mobile,/,137,62
+S20250524-Em-De-1699,2025-05-24,,Email,Desktop,/,18,4
+S20250524-Em-Mo-7318,2025-05-24,,Email,Mobile,/,68,18
+S20250524-Or-De-7599,2025-05-24,,Organic,Desktop,/,5,1
+S20250524-Or-Mo-7487,2025-05-24,,Organic,Mobile,/,187,61
+S20250524-Re-De-5716,2025-05-24,,Referral,Desktop,/,16,5
+S20250524-Re-Mo-8118,2025-05-24,,Referral,Mobile,/,25,7
+S20250525-Pa-De-8564,2025-05-25,,Paid Search,Desktop,/,42,16
+S20250525-Pa-Mo-4637,2025-05-25,,Paid Search,Mobile,/,142,54
+S20250525-Pa-De-3449,2025-05-25,,Paid Social,Desktop,/,23,9
+S20250525-Pa-Mo-4496,2025-05-25,,Paid Social,Mobile,/,153,58
+S20250525-Em-De-6670,2025-05-25,,Email,Desktop,/,4,1
+S20250525-Em-Mo-3468,2025-05-25,,Email,Mobile,/,62,17
+S20250525-Or-De-5757,2025-05-25,,Organic,Desktop,/,94,27
+S20250525-Or-Mo-8872,2025-05-25,,Organic,Mobile,/,81,24
+S20250525-Re-De-8924,2025-05-25,,Referral,Desktop,/,20,5
+S20250525-Re-Mo-9462,2025-05-25,,Referral,Mobile,/,24,7
+S20250526-Pa-De-8597,2025-05-26,,Paid Search,Desktop,/,1,0
+S20250526-Pa-Mo-1362,2025-05-26,,Paid Search,Mobile,/,128,47
+S20250526-Pa-De-1875,2025-05-26,,Paid Social,Desktop,/,75,36
+S20250526-Pa-Mo-6955,2025-05-26,,Paid Social,Mobile,/,43,21
+S20250526-Em-De-2128,2025-05-26,,Email,Desktop,/,28,11
+S20250526-Em-Mo-5561,2025-05-26,,Email,Mobile,/,30,12
+S20250526-Or-De-2008,2025-05-26,,Organic,Desktop,/,37,11
+S20250526-Or-Mo-2226,2025-05-26,,Organic,Mobile,/,111,34
+S20250526-Re-De-8058,2025-05-26,,Referral,Desktop,/,11,3
+S20250526-Re-Mo-9733,2025-05-26,,Referral,Mobile,/,18,5
+S20250527-Pa-De-9320,2025-05-27,,Paid Search,Desktop,/,68,30
+S20250527-Pa-Mo-5399,2025-05-27,,Paid Search,Mobile,/,57,25
+S20250527-Pa-De-4032,2025-05-27,,Paid Social,Desktop,/,21,11
+S20250527-Pa-Mo-4903,2025-05-27,,Paid Social,Mobile,/,94,47
+S20250527-Em-De-1099,2025-05-27,,Email,Desktop,/,2,0
+S20250527-Em-Mo-4656,2025-05-27,,Email,Mobile,/,47,11
+S20250527-Or-De-5209,2025-05-27,,Organic,Desktop,/,44,15
+S20250527-Or-Mo-7995,2025-05-27,,Organic,Mobile,/,95,32
+S20250527-Re-De-6604,2025-05-27,,Referral,Desktop,/,2,0
+S20250527-Re-Mo-4036,2025-05-27,,Referral,Mobile,/,29,7
+S20250528-Pa-De-7023,2025-05-28,,Paid Search,Desktop,/,54,18
+S20250528-Pa-Mo-8979,2025-05-28,,Paid Search,Mobile,/,103,35
+S20250528-Pa-De-7909,2025-05-28,,Paid Social,Desktop,/,73,30
+S20250528-Pa-Mo-6032,2025-05-28,,Paid Social,Mobile,/,69,28
+S20250528-Em-De-1407,2025-05-28,,Email,Desktop,/,28,11
+S20250528-Em-Mo-8204,2025-05-28,,Email,Mobile,/,63,24
+S20250528-Or-De-4726,2025-05-28,,Organic,Desktop,/,113,38
+S20250528-Or-Mo-1678,2025-05-28,,Organic,Mobile,/,74,24
+S20250528-Re-De-2116,2025-05-28,,Referral,Desktop,/,28,9
+S20250528-Re-Mo-7344,2025-05-28,,Referral,Mobile,/,7,2
+S20250529-Pa-De-3491,2025-05-29,,Paid Search,Desktop,/,2,0
+S20250529-Pa-Mo-5822,2025-05-29,,Paid Search,Mobile,/,162,54
+S20250529-Pa-De-1355,2025-05-29,,Paid Social,Desktop,/,70,33
+S20250529-Pa-Mo-4472,2025-05-29,,Paid Social,Mobile,/,70,34
+S20250529-Em-De-7704,2025-05-29,,Email,Desktop,/,28,6
+S20250529-Em-Mo-4624,2025-05-29,,Email,Mobile,/,54,13
+S20250529-Or-De-1944,2025-05-29,,Organic,Desktop,/,48,15
+S20250529-Or-Mo-6840,2025-05-29,,Organic,Mobile,/,118,36
+S20250529-Re-De-9146,2025-05-29,,Referral,Desktop,/,5,2
+S20250529-Re-Mo-6290,2025-05-29,,Referral,Mobile,/,29,11
+S20250530-Pa-De-9051,2025-05-30,,Paid Search,Desktop,/,70,29
+S20250530-Pa-Mo-7128,2025-05-30,,Paid Search,Mobile,/,40,16
+S20250530-Pa-De-8816,2025-05-30,,Paid Social,Desktop,/,14,5
+S20250530-Pa-Mo-9351,2025-05-30,,Paid Social,Mobile,/,81,32
+S20250530-Em-De-2805,2025-05-30,,Email,Desktop,/,39,12
+S20250530-Em-Mo-6047,2025-05-30,,Email,Mobile,/,9,2
+S20250530-Or-De-8889,2025-05-30,,Organic,Desktop,/,32,9
+S20250530-Or-Mo-6238,2025-05-30,,Organic,Mobile,/,67,20
+S20250530-Re-De-3315,2025-05-30,,Referral,Desktop,/,3,0
+S20250530-Re-Mo-4874,2025-05-30,,Referral,Mobile,/,17,4
+S20250531-Pa-De-7494,2025-05-31,,Paid Search,Desktop,/,193,67
+S20250531-Pa-Mo-5498,2025-05-31,,Paid Search,Mobile,/,41,14
+S20250531-Pa-De-1875,2025-05-31,,Paid Social,Desktop,/,189,91
+S20250531-Pa-Mo-9734,2025-05-31,,Paid Social,Mobile,/,30,14
+S20250531-Em-De-7905,2025-05-31,,Email,Desktop,/,69,24
+S20250531-Em-Mo-4313,2025-05-31,,Email,Mobile,/,47,17
+S20250531-Or-De-3341,2025-05-31,,Organic,Desktop,/,115,47
+S20250531-Or-Mo-2518,2025-05-31,,Organic,Mobile,/,149,62
+S20250531-Re-De-7499,2025-05-31,,Referral,Desktop,/,41,11
+S20250531-Re-Mo-2284,2025-05-31,,Referral,Mobile,/,25,7
+S20250601-Pa-De-8999,2025-06-01,,Paid Search,Desktop,/,31,11
+S20250601-Pa-Mo-3292,2025-06-01,,Paid Search,Mobile,/,118,40
+S20250601-Pa-De-4432,2025-06-01,,Paid Social,Desktop,/,102,50
+S20250601-Pa-Mo-1762,2025-06-01,,Paid Social,Mobile,/,40,20
+S20250601-Em-De-8637,2025-06-01,,Email,Desktop,/,6,1
+S20250601-Em-Mo-9571,2025-06-01,,Email,Mobile,/,57,17
+S20250601-Or-De-8661,2025-06-01,,Organic,Desktop,/,85,27
+S20250601-Or-Mo-4421,2025-06-01,,Organic,Mobile,/,61,20
+S20250601-Re-De-7504,2025-06-01,,Referral,Desktop,/,14,5
+S20250601-Re-Mo-1054,2025-06-01,,Referral,Mobile,/,17,7
+S20250602-Pa-De-3272,2025-06-02,,Paid Search,Desktop,/,20,7
+S20250602-Pa-Mo-7141,2025-06-02,,Paid Search,Mobile,/,55,18
+S20250602-Pa-De-7156,2025-06-02,,Paid Social,Desktop,/,8,4
+S20250602-Pa-Mo-4570,2025-06-02,,Paid Social,Mobile,/,57,26
+S20250602-Em-De-1797,2025-06-02,,Email,Desktop,/,14,2
+S20250602-Em-Mo-3999,2025-06-02,,Email,Mobile,/,20,2
+S20250602-Or-De-7239,2025-06-02,,Organic,Desktop,/,37,13
+S20250602-Or-Mo-4874,2025-06-02,,Organic,Mobile,/,38,14
+S20250602-Re-De-8318,2025-06-02,,Referral,Desktop,/,3,0
+S20250602-Re-Mo-8234,2025-06-02,,Referral,Mobile,/,18,3
+S20250603-Pa-De-2674,2025-06-03,,Paid Search,Desktop,/,0,0
+S20250603-Pa-Mo-3392,2025-06-03,,Paid Search,Mobile,/,156,65
+S20250603-Pa-De-9928,2025-06-03,,Paid Social,Desktop,/,38,19
+S20250603-Pa-Mo-3707,2025-06-03,,Paid Social,Mobile,/,102,51
+S20250603-Em-De-2867,2025-06-03,,Email,Desktop,/,47,13
+S20250603-Em-Mo-7965,2025-06-03,,Email,Mobile,/,28,7
+S20250603-Or-De-8689,2025-06-03,,Organic,Desktop,/,32,10
+S20250603-Or-Mo-3700,2025-06-03,,Organic,Mobile,/,120,39
+S20250603-Re-De-6464,2025-06-03,,Referral,Desktop,/,1,0
+S20250603-Re-Mo-7720,2025-06-03,,Referral,Mobile,/,45,12
+S20250604-Pa-De-4625,2025-06-04,,Paid Search,Desktop,/,83,30
+S20250604-Pa-Mo-9440,2025-06-04,,Paid Search,Mobile,/,63,23
+S20250604-Pa-De-8099,2025-06-04,,Paid Social,Desktop,/,83,42
+S20250604-Pa-Mo-8116,2025-06-04,,Paid Social,Mobile,/,41,21
+S20250604-Em-De-9675,2025-06-04,,Email,Desktop,/,11,2
+S20250604-Em-Mo-7300,2025-06-04,,Email,Mobile,/,53,10
+S20250604-Or-De-8283,2025-06-04,,Organic,Desktop,/,63,20
+S20250604-Or-Mo-5575,2025-06-04,,Organic,Mobile,/,81,27
+S20250604-Re-De-6550,2025-06-04,,Referral,Desktop,/,13,3
+S20250604-Re-Mo-9903,2025-06-04,,Referral,Mobile,/,11,3
+S20250605-Pa-De-6905,2025-06-05,,Paid Search,Desktop,/,84,22
+S20250605-Pa-Mo-2776,2025-06-05,,Paid Search,Mobile,/,87,23
+S20250605-Pa-De-1272,2025-06-05,,Paid Social,Desktop,/,34,13
+S20250605-Pa-Mo-4644,2025-06-05,,Paid Social,Mobile,/,125,50
+S20250605-Em-De-1062,2025-06-05,,Email,Desktop,/,53,10
+S20250605-Em-Mo-2579,2025-06-05,,Email,Mobile,/,27,5
+S20250605-Or-De-8887,2025-06-05,,Organic,Desktop,/,66,19
+S20250605-Or-Mo-4379,2025-06-05,,Organic,Mobile,/,114,34
+S20250605-Re-De-2192,2025-06-05,,Referral,Desktop,/,34,13
+S20250605-Re-Mo-1813,2025-06-05,,Referral,Mobile,/,12,5
+S20250606-Pa-De-2833,2025-06-06,,Paid Search,Desktop,/,62,22
+S20250606-Pa-Mo-9989,2025-06-06,,Paid Search,Mobile,/,118,41
+S20250606-Pa-De-3187,2025-06-06,,Paid Social,Desktop,/,4,2
+S20250606-Pa-Mo-9258,2025-06-06,,Paid Social,Mobile,/,148,80
+S20250606-Em-De-8987,2025-06-06,,Email,Desktop,/,15,4
+S20250606-Em-Mo-8165,2025-06-06,,Email,Mobile,/,72,24
+S20250606-Or-De-9051,2025-06-06,,Organic,Desktop,/,36,10
+S20250606-Or-Mo-5284,2025-06-06,,Organic,Mobile,/,149,42
+S20250606-Re-De-6803,2025-06-06,,Referral,Desktop,/,17,4
+S20250606-Re-Mo-4394,2025-06-06,,Referral,Mobile,/,24,7
+S20250607-Pa-De-8461,2025-06-07,,Paid Search,Desktop,/,79,26
+S20250607-Pa-Mo-8156,2025-06-07,,Paid Search,Mobile,/,41,13
+S20250607-Pa-De-6307,2025-06-07,,Paid Social,Desktop,/,38,19
+S20250607-Pa-Mo-8736,2025-06-07,,Paid Social,Mobile,/,79,41
+S20250607-Em-De-7086,2025-06-07,,Email,Desktop,/,35,8
+S20250607-Em-Mo-3221,2025-06-07,,Email,Mobile,/,26,5
+S20250607-Or-De-2610,2025-06-07,,Organic,Desktop,/,39,13
+S20250607-Or-Mo-8830,2025-06-07,,Organic,Mobile,/,73,26
+S20250607-Re-De-6130,2025-06-07,,Referral,Desktop,/,9,4
+S20250607-Re-Mo-7295,2025-06-07,,Referral,Mobile,/,19,8
+S20250608-Pa-De-6634,2025-06-08,,Paid Search,Desktop,/,3,1
+S20250608-Pa-Mo-9987,2025-06-08,,Paid Search,Mobile,/,146,61
+S20250608-Pa-De-1137,2025-06-08,,Paid Social,Desktop,/,20,9
+S20250608-Pa-Mo-5450,2025-06-08,,Paid Social,Mobile,/,107,49
+S20250608-Em-De-8012,2025-06-08,,Email,Desktop,/,27,6
+S20250608-Em-Mo-5852,2025-06-08,,Email,Mobile,/,24,6
+S20250608-Or-De-5680,2025-06-08,,Organic,Desktop,/,23,8
+S20250608-Or-Mo-6447,2025-06-08,,Organic,Mobile,/,119,44
+S20250608-Re-De-3749,2025-06-08,,Referral,Desktop,/,9,1
+S20250608-Re-Mo-8785,2025-06-08,,Referral,Mobile,/,16,2
+S20250609-Pa-De-2755,2025-06-09,,Paid Search,Desktop,/,103,41
+S20250609-Pa-Mo-4390,2025-06-09,,Paid Search,Mobile,/,124,48
+S20250609-Pa-De-4746,2025-06-09,,Paid Social,Desktop,/,40,18
+S20250609-Pa-Mo-9290,2025-06-09,,Paid Social,Mobile,/,154,70
+S20250609-Em-De-2063,2025-06-09,,Email,Desktop,/,40,10
+S20250609-Em-Mo-9830,2025-06-09,,Email,Mobile,/,50,13
+S20250609-Or-De-7402,2025-06-09,,Organic,Desktop,/,100,37
+S20250609-Or-Mo-1345,2025-06-09,,Organic,Mobile,/,129,48
+S20250609-Re-De-1450,2025-06-09,,Referral,Desktop,/,20,7
+S20250609-Re-Mo-1350,2025-06-09,,Referral,Mobile,/,39,13
+S20250610-Pa-De-1411,2025-06-10,,Paid Search,Desktop,/,1,0
+S20250610-Pa-Mo-1813,2025-06-10,,Paid Search,Mobile,/,144,54
+S20250610-Pa-De-4811,2025-06-10,,Paid Social,Desktop,/,49,23
+S20250610-Pa-Mo-3701,2025-06-10,,Paid Social,Mobile,/,98,48
+S20250610-Em-De-2672,2025-06-10,,Email,Desktop,/,11,2
+S20250610-Em-Mo-1401,2025-06-10,,Email,Mobile,/,52,11
+S20250610-Or-De-7279,2025-06-10,,Organic,Desktop,/,56,18
+S20250610-Or-Mo-3205,2025-06-10,,Organic,Mobile,/,94,30
+S20250610-Re-De-2568,2025-06-10,,Referral,Desktop,/,3,1
+S20250610-Re-Mo-5720,2025-06-10,,Referral,Mobile,/,41,13
+S20250611-Pa-De-1834,2025-06-11,,Paid Search,Desktop,/,55,23
+S20250611-Pa-Mo-4324,2025-06-11,,Paid Search,Mobile,/,124,52
+S20250611-Pa-De-4468,2025-06-11,,Paid Social,Desktop,/,98,48
+S20250611-Pa-Mo-8144,2025-06-11,,Paid Social,Mobile,/,71,35
+S20250611-Em-De-6122,2025-06-11,,Email,Desktop,/,10,3
+S20250611-Em-Mo-5993,2025-06-11,,Email,Mobile,/,76,24
+S20250611-Or-De-1778,2025-06-11,,Organic,Desktop,/,57,19
+S20250611-Or-Mo-4159,2025-06-11,,Organic,Mobile,/,137,47
+S20250611-Re-De-4996,2025-06-11,,Referral,Desktop,/,7,2
+S20250611-Re-Mo-7082,2025-06-11,,Referral,Mobile,/,45,13
+S20250612-Pa-De-6971,2025-06-12,,Paid Search,Desktop,/,18,5
+S20250612-Pa-Mo-4380,2025-06-12,,Paid Search,Mobile,/,96,28
+S20250612-Pa-De-2067,2025-06-12,,Paid Social,Desktop,/,45,19
+S20250612-Pa-Mo-6252,2025-06-12,,Paid Social,Mobile,/,49,20
+S20250612-Em-De-5120,2025-06-12,,Email,Desktop,/,6,1
+S20250612-Em-Mo-9737,2025-06-12,,Email,Mobile,/,27,7
+S20250612-Or-De-1133,2025-06-12,,Organic,Desktop,/,60,17
+S20250612-Or-Mo-7607,2025-06-12,,Organic,Mobile,/,47,14
+S20250612-Re-De-3186,2025-06-12,,Referral,Desktop,/,1,0
+S20250612-Re-Mo-3665,2025-06-12,,Referral,Mobile,/,31,10
+S20250613-Pa-De-8372,2025-06-13,,Paid Search,Desktop,/,6,2
+S20250613-Pa-Mo-2892,2025-06-13,,Paid Search,Mobile,/,129,47
+S20250613-Pa-De-6810,2025-06-13,,Paid Social,Desktop,/,17,9
+S20250613-Pa-Mo-7448,2025-06-13,,Paid Social,Mobile,/,97,53
+S20250613-Em-De-1737,2025-06-13,,Email,Desktop,/,38,10
+S20250613-Em-Mo-5436,2025-06-13,,Email,Mobile,/,16,4
+S20250613-Or-De-8058,2025-06-13,,Organic,Desktop,/,121,41
+S20250613-Or-Mo-1132,2025-06-13,,Organic,Mobile,/,31,10
+S20250613-Re-De-9310,2025-06-13,,Referral,Desktop,/,12,4
+S20250613-Re-Mo-3903,2025-06-13,,Referral,Mobile,/,18,7
+S20250614-Pa-De-8334,2025-06-14,,Paid Search,Desktop,/,102,37
+S20250614-Pa-Mo-7913,2025-06-14,,Paid Search,Mobile,/,105,37
+S20250614-Pa-De-7410,2025-06-14,,Paid Social,Desktop,/,75,38
+S20250614-Pa-Mo-4397,2025-06-14,,Paid Social,Mobile,/,114,58
+S20250614-Em-De-7456,2025-06-14,,Email,Desktop,/,35,10
+S20250614-Em-Mo-2615,2025-06-14,,Email,Mobile,/,56,16
+S20250614-Or-De-8498,2025-06-14,,Organic,Desktop,/,36,12
+S20250614-Or-Mo-2961,2025-06-14,,Organic,Mobile,/,175,58
+S20250614-Re-De-4626,2025-06-14,,Referral,Desktop,/,28,5
+S20250614-Re-Mo-9981,2025-06-14,,Referral,Mobile,/,19,3
+S20250615-Pa-De-5953,2025-06-15,,Paid Search,Desktop,/,21,9
+S20250615-Pa-Mo-1260,2025-06-15,,Paid Search,Mobile,/,166,70
+S20250615-Pa-De-8758,2025-06-15,,Paid Social,Desktop,/,105,43
+S20250615-Pa-Mo-8889,2025-06-15,,Paid Social,Mobile,/,60,24
+S20250615-Em-De-1084,2025-06-15,,Email,Desktop,/,56,17
+S20250615-Em-Mo-3995,2025-06-15,,Email,Mobile,/,28,8
+S20250615-Or-De-1570,2025-06-15,,Organic,Desktop,/,64,19
+S20250615-Or-Mo-8922,2025-06-15,,Organic,Mobile,/,154,48
+S20250615-Re-De-7671,2025-06-15,,Referral,Desktop,/,23,6
+S20250615-Re-Mo-6669,2025-06-15,,Referral,Mobile,/,26,7
+S20250616-Pa-De-5656,2025-06-16,,Paid Search,Desktop,/,84,34
+S20250616-Pa-Mo-9511,2025-06-16,,Paid Search,Mobile,/,88,35
+S20250616-Pa-De-6031,2025-06-16,,Paid Social,Desktop,/,35,14
+S20250616-Pa-Mo-2127,2025-06-16,,Paid Social,Mobile,/,120,51
+S20250616-Em-De-3406,2025-06-16,,Email,Desktop,/,14,4
+S20250616-Em-Mo-3807,2025-06-16,,Email,Mobile,/,49,16
+S20250616-Or-De-6951,2025-06-16,,Organic,Desktop,/,0,0
+S20250616-Or-Mo-5222,2025-06-16,,Organic,Mobile,/,165,59
+S20250616-Re-De-2160,2025-06-16,,Referral,Desktop,/,6,3
+S20250616-Re-Mo-5312,2025-06-16,,Referral,Mobile,/,33,16
+S20250617-Pa-De-5937,2025-06-17,,Paid Search,Desktop,/,1,0
+S20250617-Pa-Mo-3914,2025-06-17,,Paid Search,Mobile,/,123,41
+S20250617-Pa-De-6985,2025-06-17,,Paid Social,Desktop,/,6,2
+S20250617-Pa-Mo-3197,2025-06-17,,Paid Social,Mobile,/,122,56
+S20250617-Em-De-1950,2025-06-17,,Email,Desktop,/,44,11
+S20250617-Em-Mo-7679,2025-06-17,,Email,Mobile,/,5,1
+S20250617-Or-De-4159,2025-06-17,,Organic,Desktop,/,19,7
+S20250617-Or-Mo-1397,2025-06-17,,Organic,Mobile,/,91,34
+S20250617-Re-De-4371,2025-06-17,,Referral,Desktop,/,15,4
+S20250617-Re-Mo-4041,2025-06-17,,Referral,Mobile,/,22,6
+S20250618-Pa-De-9746,2025-06-18,,Paid Search,Desktop,/,54,15
+S20250618-Pa-Mo-5977,2025-06-18,,Paid Search,Mobile,/,73,21
+S20250618-Pa-De-7240,2025-06-18,,Paid Social,Desktop,/,71,27
+S20250618-Pa-Mo-5966,2025-06-18,,Paid Social,Mobile,/,43,16
+S20250618-Em-De-7867,2025-06-18,,Email,Desktop,/,36,8
+S20250618-Em-Mo-8854,2025-06-18,,Email,Mobile,/,16,3
+S20250618-Or-De-5324,2025-06-18,,Organic,Desktop,/,31,11
+S20250618-Or-Mo-9310,2025-06-18,,Organic,Mobile,/,100,38
+S20250618-Re-De-7452,2025-06-18,,Referral,Desktop,/,15,3
+S20250618-Re-Mo-7392,2025-06-18,,Referral,Mobile,/,16,3
+S20250619-Pa-De-9385,2025-06-19,,Paid Search,Desktop,/,20,5
+S20250619-Pa-Mo-8391,2025-06-19,,Paid Search,Mobile,/,129,38
+S20250619-Pa-De-6543,2025-06-19,,Paid Social,Desktop,/,26,11
+S20250619-Pa-Mo-9921,2025-06-19,,Paid Social,Mobile,/,93,42
+S20250619-Em-De-4848,2025-06-19,,Email,Desktop,/,7,2
+S20250619-Em-Mo-4456,2025-06-19,,Email,Mobile,/,47,16
+S20250619-Or-De-7125,2025-06-19,,Organic,Desktop,/,41,13
+S20250619-Or-Mo-3923,2025-06-19,,Organic,Mobile,/,127,39
+S20250619-Re-De-8476,2025-06-19,,Referral,Desktop,/,0,0
+S20250619-Re-Mo-8931,2025-06-19,,Referral,Mobile,/,33,12
+S20250620-Pa-De-1607,2025-06-20,,Paid Search,Desktop,/,49,20
+S20250620-Pa-Mo-8394,2025-06-20,,Paid Search,Mobile,/,131,55
+S20250620-Pa-De-8545,2025-06-20,,Paid Social,Desktop,/,73,39
+S20250620-Pa-Mo-6344,2025-06-20,,Paid Social,Mobile,/,63,33
+S20250620-Em-De-3274,2025-06-20,,Email,Desktop,/,18,5
+S20250620-Em-Mo-8523,2025-06-20,,Email,Mobile,/,47,14
+S20250620-Or-De-9760,2025-06-20,,Organic,Desktop,/,17,6
+S20250620-Or-Mo-7200,2025-06-20,,Organic,Mobile,/,162,58
+S20250620-Re-De-7122,2025-06-20,,Referral,Desktop,/,12,4
+S20250620-Re-Mo-2795,2025-06-20,,Referral,Mobile,/,26,9
+S20250621-Pa-De-3280,2025-06-21,,Paid Search,Desktop,/,48,17
+S20250621-Pa-Mo-8796,2025-06-21,,Paid Search,Mobile,/,189,68
+S20250621-Pa-De-4371,2025-06-21,,Paid Social,Desktop,/,121,52
+S20250621-Pa-Mo-4429,2025-06-21,,Paid Social,Mobile,/,95,41
+S20250621-Em-De-1783,2025-06-21,,Email,Desktop,/,18,5
+S20250621-Em-Mo-1414,2025-06-21,,Email,Mobile,/,90,25
+S20250621-Or-De-6722,2025-06-21,,Organic,Desktop,/,32,10
+S20250621-Or-Mo-1722,2025-06-21,,Organic,Mobile,/,217,69
+S20250621-Re-De-4701,2025-06-21,,Referral,Desktop,/,27,8
+S20250621-Re-Mo-6630,2025-06-21,,Referral,Mobile,/,33,9
+S20250622-Pa-De-6633,2025-06-22,,Paid Search,Desktop,/,8,2
+S20250622-Pa-Mo-8413,2025-06-22,,Paid Search,Mobile,/,114,42
+S20250622-Pa-De-7090,2025-06-22,,Paid Social,Desktop,/,17,9
+S20250622-Pa-Mo-9154,2025-06-22,,Paid Social,Mobile,/,98,52
+S20250622-Em-De-3012,2025-06-22,,Email,Desktop,/,19,4
+S20250622-Em-Mo-2100,2025-06-22,,Email,Mobile,/,28,5
+S20250622-Or-De-1996,2025-06-22,,Organic,Desktop,/,70,24
+S20250622-Or-Mo-6209,2025-06-22,,Organic,Mobile,/,61,21
+S20250622-Re-De-6427,2025-06-22,,Referral,Desktop,/,11,3
+S20250622-Re-Mo-5603,2025-06-22,,Referral,Mobile,/,15,4
+S20250623-Pa-De-4611,2025-06-23,,Paid Search,Desktop,/,119,44
+S20250623-Pa-Mo-1211,2025-06-23,,Paid Search,Mobile,/,68,25
+S20250623-Pa-De-5272,2025-06-23,,Paid Social,Desktop,/,42,19
+S20250623-Pa-Mo-6813,2025-06-23,,Paid Social,Mobile,/,136,65
+S20250623-Em-De-8160,2025-06-23,,Email,Desktop,/,22,4
+S20250623-Em-Mo-9575,2025-06-23,,Email,Mobile,/,48,8
+S20250623-Or-De-3228,2025-06-23,,Organic,Desktop,/,50,15
+S20250623-Or-Mo-2921,2025-06-23,,Organic,Mobile,/,115,33
+S20250623-Re-De-2521,2025-06-23,,Referral,Desktop,/,12,3
+S20250623-Re-Mo-2351,2025-06-23,,Referral,Mobile,/,33,7
+S20250624-Pa-De-1436,2025-06-24,,Paid Search,Desktop,/,46,17
+S20250624-Pa-Mo-7085,2025-06-24,,Paid Search,Mobile,/,141,54
+S20250624-Pa-De-1895,2025-06-24,,Paid Social,Desktop,/,28,14
+S20250624-Pa-Mo-3569,2025-06-24,,Paid Social,Mobile,/,138,70
+S20250624-Em-De-2522,2025-06-24,,Email,Desktop,/,4,1
+S20250624-Em-Mo-7425,2025-06-24,,Email,Mobile,/,66,19
+S20250624-Or-De-6489,2025-06-24,,Organic,Desktop,/,99,32
+S20250624-Or-Mo-4511,2025-06-24,,Organic,Mobile,/,57,18
+S20250624-Re-De-1113,2025-06-24,,Referral,Desktop,/,8,2
+S20250624-Re-Mo-1531,2025-06-24,,Referral,Mobile,/,34,11
+S20250625-Pa-De-1933,2025-06-25,,Paid Search,Desktop,/,11,4
+S20250625-Pa-Mo-2050,2025-06-25,,Paid Search,Mobile,/,132,48
+S20250625-Pa-De-2060,2025-06-25,,Paid Social,Desktop,/,24,12
+S20250625-Pa-Mo-8923,2025-06-25,,Paid Social,Mobile,/,80,39
+S20250625-Em-De-6969,2025-06-25,,Email,Desktop,/,46,10
+S20250625-Em-Mo-5628,2025-06-25,,Email,Mobile,/,15,3
+S20250625-Or-De-7797,2025-06-25,,Organic,Desktop,/,69,21
+S20250625-Or-Mo-3600,2025-06-25,,Organic,Mobile,/,42,12
+S20250625-Re-De-2239,2025-06-25,,Referral,Desktop,/,8,1
+S20250625-Re-Mo-1459,2025-06-25,,Referral,Mobile,/,14,3
+S20250626-Pa-De-8736,2025-06-26,,Paid Search,Desktop,/,18,6
+S20250626-Pa-Mo-3697,2025-06-26,,Paid Search,Mobile,/,162,62
+S20250626-Pa-De-3221,2025-06-26,,Paid Social,Desktop,/,20,9
+S20250626-Pa-Mo-6814,2025-06-26,,Paid Social,Mobile,/,142,64
+S20250626-Em-De-5547,2025-06-26,,Email,Desktop,/,28,6
+S20250626-Em-Mo-7510,2025-06-26,,Email,Mobile,/,55,12
+S20250626-Or-De-7028,2025-06-26,,Organic,Desktop,/,47,15
+S20250626-Or-Mo-2361,2025-06-26,,Organic,Mobile,/,141,44
+S20250626-Re-De-3712,2025-06-26,,Referral,Desktop,/,29,5
+S20250626-Re-Mo-7463,2025-06-26,,Referral,Mobile,/,15,3
+S20250627-Pa-De-1698,2025-06-27,,Paid Search,Desktop,/,6,2
+S20250627-Pa-Mo-9938,2025-06-27,,Paid Search,Mobile,/,178,60
+S20250627-Pa-De-3039,2025-06-27,,Paid Social,Desktop,/,5,3
+S20250627-Pa-Mo-4289,2025-06-27,,Paid Social,Mobile,/,138,72
+S20250627-Em-De-7667,2025-06-27,,Email,Desktop,/,14,4
+S20250627-Em-Mo-6258,2025-06-27,,Email,Mobile,/,64,17
+S20250627-Or-De-1380,2025-06-27,,Organic,Desktop,/,47,18
+S20250627-Or-Mo-8173,2025-06-27,,Organic,Mobile,/,140,53
+S20250627-Re-De-2739,2025-06-27,,Referral,Desktop,/,3,1
+S20250627-Re-Mo-4126,2025-06-27,,Referral,Mobile,/,34,9
+S20250628-Pa-De-6978,2025-06-28,,Paid Search,Desktop,/,30,11
+S20250628-Pa-Mo-1293,2025-06-28,,Paid Search,Mobile,/,86,34
+S20250628-Pa-De-6627,2025-06-28,,Paid Social,Desktop,/,63,35
+S20250628-Pa-Mo-4990,2025-06-28,,Paid Social,Mobile,/,40,22
+S20250628-Em-De-5434,2025-06-28,,Email,Desktop,/,6,2
+S20250628-Em-Mo-5061,2025-06-28,,Email,Mobile,/,46,14
+S20250628-Or-De-3316,2025-06-28,,Organic,Desktop,/,24,8
+S20250628-Or-Mo-2274,2025-06-28,,Organic,Mobile,/,104,34
+S20250628-Re-De-4206,2025-06-28,,Referral,Desktop,/,9,2
+S20250628-Re-Mo-6178,2025-06-28,,Referral,Mobile,/,22,4
+S20250629-Pa-De-6799,2025-06-29,,Paid Search,Desktop,/,10,3
+S20250629-Pa-Mo-3929,2025-06-29,,Paid Search,Mobile,/,132,45
+S20250629-Pa-De-6192,2025-06-29,,Paid Social,Desktop,/,62,28
+S20250629-Pa-Mo-8027,2025-06-29,,Paid Social,Mobile,/,67,30
+S20250629-Em-De-4383,2025-06-29,,Email,Desktop,/,33,9
+S20250629-Em-Mo-4540,2025-06-29,,Email,Mobile,/,37,11
+S20250629-Or-De-8863,2025-06-29,,Organic,Desktop,/,94,30
+S20250629-Or-Mo-4176,2025-06-29,,Organic,Mobile,/,59,19
+S20250629-Re-De-3797,2025-06-29,,Referral,Desktop,/,12,3
+S20250629-Re-Mo-2363,2025-06-29,,Referral,Mobile,/,21,5
+S20250630-Pa-De-1182,2025-06-30,,Paid Search,Desktop,/,16,4
+S20250630-Pa-Mo-9427,2025-06-30,,Paid Search,Mobile,/,62,18
+S20250630-Pa-De-9524,2025-06-30,,Paid Social,Desktop,/,11,6
+S20250630-Pa-Mo-4091,2025-06-30,,Paid Social,Mobile,/,40,20
+S20250630-Em-De-1027,2025-06-30,,Email,Desktop,/,11,1
+S20250630-Em-Mo-8539,2025-06-30,,Email,Mobile,/,14,2
+S20250630-Or-De-1256,2025-06-30,,Organic,Desktop,/,20,7
+S20250630-Or-Mo-2447,2025-06-30,,Organic,Mobile,/,56,21
+S20250630-Re-De-9674,2025-06-30,,Referral,Desktop,/,0,0
+S20250630-Re-Mo-4665,2025-06-30,,Referral,Mobile,/,12,3
+S20250701-Pa-De-3538,2025-07-01,,Paid Search,Desktop,/,178,62
+S20250701-Pa-Mo-1443,2025-07-01,,Paid Search,Mobile,/,48,16
+S20250701-Pa-De-6729,2025-07-01,,Paid Social,Desktop,/,132,61
+S20250701-Pa-Mo-2953,2025-07-01,,Paid Social,Mobile,/,61,28
+S20250701-Em-De-6526,2025-07-01,,Email,Desktop,/,7,2
+S20250701-Em-Mo-5457,2025-07-01,,Email,Mobile,/,102,34
+S20250701-Or-De-3876,2025-07-01,,Organic,Desktop,/,40,13
+S20250701-Or-Mo-3026,2025-07-01,,Organic,Mobile,/,185,61
+S20250701-Re-De-8495,2025-07-01,,Referral,Desktop,/,16,4
+S20250701-Re-Mo-4662,2025-07-01,,Referral,Mobile,/,55,15
+S20250702-Pa-De-9141,2025-07-02,,Paid Search,Desktop,/,124,47
+S20250702-Pa-Mo-4237,2025-07-02,,Paid Search,Mobile,/,65,24
+S20250702-Pa-De-5637,2025-07-02,,Paid Social,Desktop,/,19,10
+S20250702-Pa-Mo-1612,2025-07-02,,Paid Social,Mobile,/,172,90
+S20250702-Em-De-3610,2025-07-02,,Email,Desktop,/,1,0
+S20250702-Em-Mo-4069,2025-07-02,,Email,Mobile,/,93,25
+S20250702-Or-De-8661,2025-07-02,,Organic,Desktop,/,44,14
+S20250702-Or-Mo-1790,2025-07-02,,Organic,Mobile,/,167,56
+S20250702-Re-De-7466,2025-07-02,,Referral,Desktop,/,14,4
+S20250702-Re-Mo-4179,2025-07-02,,Referral,Mobile,/,36,11
+S20250703-Pa-De-9612,2025-07-03,,Paid Search,Desktop,/,15,5
+S20250703-Pa-Mo-6160,2025-07-03,,Paid Search,Mobile,/,157,53
+S20250703-Pa-De-2153,2025-07-03,,Paid Social,Desktop,/,41,23
+S20250703-Pa-Mo-5940,2025-07-03,,Paid Social,Mobile,/,80,44
+S20250703-Em-De-7760,2025-07-03,,Email,Desktop,/,27,9
+S20250703-Em-Mo-1980,2025-07-03,,Email,Mobile,/,45,16
+S20250703-Or-De-8909,2025-07-03,,Organic,Desktop,/,117,30
+S20250703-Or-Mo-1921,2025-07-03,,Organic,Mobile,/,43,11
+S20250703-Re-De-7268,2025-07-03,,Referral,Desktop,/,14,5
+S20250703-Re-Mo-6331,2025-07-03,,Referral,Mobile,/,25,9
+S20250704-Pa-De-6291,2025-07-04,,Paid Search,Desktop,/,73,20
+S20250704-Pa-Mo-9425,2025-07-04,,Paid Search,Mobile,/,14,4
+S20250704-Pa-De-2476,2025-07-04,,Paid Social,Desktop,/,4,2
+S20250704-Pa-Mo-3023,2025-07-04,,Paid Social,Mobile,/,66,29
+S20250704-Em-De-7713,2025-07-04,,Email,Desktop,/,13,4
+S20250704-Em-Mo-3978,2025-07-04,,Email,Mobile,/,24,7
+S20250704-Or-De-2122,2025-07-04,,Organic,Desktop,/,35,13
+S20250704-Or-Mo-4830,2025-07-04,,Organic,Mobile,/,52,18
+S20250704-Re-De-8053,2025-07-04,,Referral,Desktop,/,8,4
+S20250704-Re-Mo-6670,2025-07-04,,Referral,Mobile,/,17,8
+S20250705-Pa-De-1484,2025-07-05,,Paid Search,Desktop,/,24,7
+S20250705-Pa-Mo-1664,2025-07-05,,Paid Search,Mobile,/,92,30
+S20250705-Pa-De-5540,2025-07-05,,Paid Social,Desktop,/,83,45
+S20250705-Pa-Mo-8476,2025-07-05,,Paid Social,Mobile,/,26,14
+S20250705-Em-De-9549,2025-07-05,,Email,Desktop,/,2,0
+S20250705-Em-Mo-1567,2025-07-05,,Email,Mobile,/,50,14
+S20250705-Or-De-2652,2025-07-05,,Organic,Desktop,/,78,27
+S20250705-Or-Mo-9199,2025-07-05,,Organic,Mobile,/,45,16
+S20250705-Re-De-4595,2025-07-05,,Referral,Desktop,/,3,0
+S20250705-Re-Mo-5910,2025-07-05,,Referral,Mobile,/,21,3
+S20250706-Pa-De-2932,2025-07-06,,Paid Search,Desktop,/,49,17
+S20250706-Pa-Mo-7174,2025-07-06,,Paid Search,Mobile,/,100,36
+S20250706-Pa-De-2729,2025-07-06,,Paid Social,Desktop,/,56,28
+S20250706-Pa-Mo-1018,2025-07-06,,Paid Social,Mobile,/,78,39
+S20250706-Em-De-1294,2025-07-06,,Email,Desktop,/,33,7
+S20250706-Em-Mo-9770,2025-07-06,,Email,Mobile,/,31,7
+S20250706-Or-De-9271,2025-07-06,,Organic,Desktop,/,95,39
+S20250706-Or-Mo-5840,2025-07-06,,Organic,Mobile,/,36,14
+S20250706-Re-De-3171,2025-07-06,,Referral,Desktop,/,3,0
+S20250706-Re-Mo-4294,2025-07-06,,Referral,Mobile,/,38,11
+S20250707-Pa-De-7610,2025-07-07,,Paid Search,Desktop,/,107,39
+S20250707-Pa-Mo-9793,2025-07-07,,Paid Search,Mobile,/,86,32
+S20250707-Pa-De-2317,2025-07-07,,Paid Social,Desktop,/,29,14
+S20250707-Pa-Mo-1284,2025-07-07,,Paid Social,Mobile,/,154,76
+S20250707-Em-De-5861,2025-07-07,,Email,Desktop,/,8,2
+S20250707-Em-Mo-4259,2025-07-07,,Email,Mobile,/,70,21
+S20250707-Or-De-1081,2025-07-07,,Organic,Desktop,/,29,10
+S20250707-Or-Mo-4005,2025-07-07,,Organic,Mobile,/,187,67
+S20250707-Re-De-8068,2025-07-07,,Referral,Desktop,/,2,1
+S20250707-Re-Mo-4897,2025-07-07,,Referral,Mobile,/,38,20
+S20250708-Pa-De-1742,2025-07-08,,Paid Search,Desktop,/,26,11
+S20250708-Pa-Mo-5544,2025-07-08,,Paid Search,Mobile,/,72,32
+S20250708-Pa-De-2479,2025-07-08,,Paid Social,Desktop,/,39,20
+S20250708-Pa-Mo-1954,2025-07-08,,Paid Social,Mobile,/,47,24
+S20250708-Em-De-3547,2025-07-08,,Email,Desktop,/,18,6
+S20250708-Em-Mo-5923,2025-07-08,,Email,Mobile,/,18,5
+S20250708-Or-De-9664,2025-07-08,,Organic,Desktop,/,20,6
+S20250708-Or-Mo-1858,2025-07-08,,Organic,Mobile,/,66,20
+S20250708-Re-De-3390,2025-07-08,,Referral,Desktop,/,3,1
+S20250708-Re-Mo-4262,2025-07-08,,Referral,Mobile,/,15,4
+S20250709-Pa-De-3261,2025-07-09,,Paid Search,Desktop,/,17,7
+S20250709-Pa-Mo-2420,2025-07-09,,Paid Search,Mobile,/,107,43
+S20250709-Pa-De-5573,2025-07-09,,Paid Social,Desktop,/,32,16
+S20250709-Pa-Mo-6222,2025-07-09,,Paid Social,Mobile,/,67,33
+S20250709-Em-De-1220,2025-07-09,,Email,Desktop,/,14,2
+S20250709-Em-Mo-1875,2025-07-09,,Email,Mobile,/,42,8
+S20250709-Or-De-8111,2025-07-09,,Organic,Desktop,/,2,0
+S20250709-Or-Mo-5589,2025-07-09,,Organic,Mobile,/,128,42
+S20250709-Re-De-6351,2025-07-09,,Referral,Desktop,/,20,8
+S20250709-Re-Mo-9017,2025-07-09,,Referral,Mobile,/,19,7
+S20250710-Pa-De-9660,2025-07-10,,Paid Search,Desktop,/,88,39
+S20250710-Pa-Mo-3467,2025-07-10,,Paid Search,Mobile,/,26,12
+S20250710-Pa-De-1775,2025-07-10,,Paid Social,Desktop,/,59,32
+S20250710-Pa-Mo-6229,2025-07-10,,Paid Social,Mobile,/,46,25
+S20250710-Em-De-9069,2025-07-10,,Email,Desktop,/,6,1
+S20250710-Em-Mo-4915,2025-07-10,,Email,Mobile,/,47,12
+S20250710-Or-De-2606,2025-07-10,,Organic,Desktop,/,10,3
+S20250710-Or-Mo-1897,2025-07-10,,Organic,Mobile,/,96,28
+S20250710-Re-De-2798,2025-07-10,,Referral,Desktop,/,7,3
+S20250710-Re-Mo-9162,2025-07-10,,Referral,Mobile,/,24,11
+S20250711-Pa-De-7176,2025-07-11,,Paid Search,Desktop,/,107,34
+S20250711-Pa-Mo-8042,2025-07-11,,Paid Search,Mobile,/,50,16
+S20250711-Pa-De-9980,2025-07-11,,Paid Social,Desktop,/,31,14
+S20250711-Pa-Mo-6639,2025-07-11,,Paid Social,Mobile,/,99,47
+S20250711-Em-De-1514,2025-07-11,,Email,Desktop,/,75,17
+S20250711-Em-Mo-2913,2025-07-11,,Email,Mobile,/,13,2
+S20250711-Or-De-4274,2025-07-11,,Organic,Desktop,/,125,30
+S20250711-Or-Mo-4273,2025-07-11,,Organic,Mobile,/,24,5
+S20250711-Re-De-5208,2025-07-11,,Referral,Desktop,/,13,5
+S20250711-Re-Mo-5468,2025-07-11,,Referral,Mobile,/,25,9
+S20250712-Pa-De-3302,2025-07-12,,Paid Search,Desktop,/,57,18
+S20250712-Pa-Mo-3633,2025-07-12,,Paid Search,Mobile,/,94,31
+S20250712-Pa-De-2513,2025-07-12,,Paid Social,Desktop,/,11,4
+S20250712-Pa-Mo-8425,2025-07-12,,Paid Social,Mobile,/,130,54
+S20250712-Em-De-2971,2025-07-12,,Email,Desktop,/,18,4
+S20250712-Em-Mo-5438,2025-07-12,,Email,Mobile,/,43,9
+S20250712-Or-De-2855,2025-07-12,,Organic,Desktop,/,43,15
+S20250712-Or-Mo-2999,2025-07-12,,Organic,Mobile,/,112,38
+S20250712-Re-De-2777,2025-07-12,,Referral,Desktop,/,23,8
+S20250712-Re-Mo-8403,2025-07-12,,Referral,Mobile,/,11,4
+S20250713-Pa-De-1837,2025-07-13,,Paid Search,Desktop,/,51,17
+S20250713-Pa-Mo-8845,2025-07-13,,Paid Search,Mobile,/,91,30
+S20250713-Pa-De-2261,2025-07-13,,Paid Social,Desktop,/,30,14
+S20250713-Pa-Mo-8633,2025-07-13,,Paid Social,Mobile,/,83,40
+S20250713-Em-De-3119,2025-07-13,,Email,Desktop,/,31,10
+S20250713-Em-Mo-8716,2025-07-13,,Email,Mobile,/,20,6
+S20250713-Or-De-9169,2025-07-13,,Organic,Desktop,/,11,3
+S20250713-Or-Mo-5915,2025-07-13,,Organic,Mobile,/,124,40
+S20250713-Re-De-4727,2025-07-13,,Referral,Desktop,/,10,3
+S20250713-Re-Mo-3529,2025-07-13,,Referral,Mobile,/,25,8
+S20250714-Pa-De-9360,2025-07-14,,Paid Search,Desktop,/,11,4
+S20250714-Pa-Mo-4682,2025-07-14,,Paid Search,Mobile,/,111,40
+S20250714-Pa-De-2050,2025-07-14,,Paid Social,Desktop,/,33,17
+S20250714-Pa-Mo-9896,2025-07-14,,Paid Social,Mobile,/,67,35
+S20250714-Em-De-2066,2025-07-14,,Email,Desktop,/,16,4
+S20250714-Em-Mo-9287,2025-07-14,,Email,Mobile,/,39,11
+S20250714-Or-De-4140,2025-07-14,,Organic,Desktop,/,40,16
+S20250714-Or-Mo-1881,2025-07-14,,Organic,Mobile,/,84,33
+S20250714-Re-De-3196,2025-07-14,,Referral,Desktop,/,12,4
+S20250714-Re-Mo-2950,2025-07-14,,Referral,Mobile,/,12,4
+S20250715-Pa-De-3075,2025-07-15,,Paid Search,Desktop,/,62,26
+S20250715-Pa-Mo-8772,2025-07-15,,Paid Search,Mobile,/,138,60
+S20250715-Pa-De-8087,2025-07-15,,Paid Social,Desktop,/,127,65
+S20250715-Pa-Mo-4359,2025-07-15,,Paid Social,Mobile,/,23,12
+S20250715-Em-De-1411,2025-07-15,,Email,Desktop,/,7,2
+S20250715-Em-Mo-2981,2025-07-15,,Email,Mobile,/,62,16
+S20250715-Or-De-3037,2025-07-15,,Organic,Desktop,/,22,7
+S20250715-Or-Mo-5875,2025-07-15,,Organic,Mobile,/,144,49
+S20250715-Re-De-1694,2025-07-15,,Referral,Desktop,/,23,7
+S20250715-Re-Mo-6087,2025-07-15,,Referral,Mobile,/,9,2
+S20250716-Pa-De-9019,2025-07-16,,Paid Search,Desktop,/,14,4
+S20250716-Pa-Mo-4489,2025-07-16,,Paid Search,Mobile,/,72,24
+S20250716-Pa-De-7173,2025-07-16,,Paid Social,Desktop,/,14,6
+S20250716-Pa-Mo-7409,2025-07-16,,Paid Social,Mobile,/,76,33
+S20250716-Em-De-7148,2025-07-16,,Email,Desktop,/,16,3
+S20250716-Em-Mo-5309,2025-07-16,,Email,Mobile,/,24,5
+S20250716-Or-De-4725,2025-07-16,,Organic,Desktop,/,19,6
+S20250716-Or-Mo-9191,2025-07-16,,Organic,Mobile,/,79,28
+S20250716-Re-De-1205,2025-07-16,,Referral,Desktop,/,13,1
+S20250716-Re-Mo-4315,2025-07-16,,Referral,Mobile,/,8,1
+S20250717-Pa-De-6789,2025-07-17,,Paid Search,Desktop,/,32,12
+S20250717-Pa-Mo-7934,2025-07-17,,Paid Search,Mobile,/,100,37
+S20250717-Pa-De-3522,2025-07-17,,Paid Social,Desktop,/,75,32
+S20250717-Pa-Mo-8166,2025-07-17,,Paid Social,Mobile,/,67,29
+S20250717-Em-De-5721,2025-07-17,,Email,Desktop,/,39,12
+S20250717-Em-Mo-7141,2025-07-17,,Email,Mobile,/,22,6
+S20250717-Or-De-5380,2025-07-17,,Organic,Desktop,/,4,1
+S20250717-Or-Mo-6379,2025-07-17,,Organic,Mobile,/,156,55
+S20250717-Re-De-5036,2025-07-17,,Referral,Desktop,/,6,2
+S20250717-Re-Mo-6012,2025-07-17,,Referral,Mobile,/,35,11
+S20250718-Pa-De-4992,2025-07-18,,Paid Search,Desktop,/,16,6
+S20250718-Pa-Mo-5823,2025-07-18,,Paid Search,Mobile,/,154,63
+S20250718-Pa-De-9422,2025-07-18,,Paid Social,Desktop,/,3,1
+S20250718-Pa-Mo-3499,2025-07-18,,Paid Social,Mobile,/,146,67
+S20250718-Em-De-8763,2025-07-18,,Email,Desktop,/,49,14
+S20250718-Em-Mo-8964,2025-07-18,,Email,Mobile,/,35,9
+S20250718-Or-De-8925,2025-07-18,,Organic,Desktop,/,54,15
+S20250718-Or-Mo-6556,2025-07-18,,Organic,Mobile,/,101,28
+S20250718-Re-De-7095,2025-07-18,,Referral,Desktop,/,3,0
+S20250718-Re-Mo-4403,2025-07-18,,Referral,Mobile,/,47,9
+S20250719-Pa-De-9990,2025-07-19,,Paid Search,Desktop,/,25,8
+S20250719-Pa-Mo-5470,2025-07-19,,Paid Search,Mobile,/,110,36
+S20250719-Pa-De-9688,2025-07-19,,Paid Social,Desktop,/,3,1
+S20250719-Pa-Mo-9035,2025-07-19,,Paid Social,Mobile,/,96,46
+S20250719-Em-De-1602,2025-07-19,,Email,Desktop,/,19,3
+S20250719-Em-Mo-1427,2025-07-19,,Email,Mobile,/,34,7
+S20250719-Or-De-7840,2025-07-19,,Organic,Desktop,/,11,3
+S20250719-Or-Mo-4811,2025-07-19,,Organic,Mobile,/,119,36
+S20250719-Re-De-6901,2025-07-19,,Referral,Desktop,/,17,5
+S20250719-Re-Mo-5085,2025-07-19,,Referral,Mobile,/,22,6
+S20250720-Pa-De-8598,2025-07-20,,Paid Search,Desktop,/,46,17
+S20250720-Pa-Mo-2049,2025-07-20,,Paid Search,Mobile,/,111,41
+S20250720-Pa-De-3546,2025-07-20,,Paid Social,Desktop,/,26,13
+S20250720-Pa-Mo-6628,2025-07-20,,Paid Social,Mobile,/,93,46
+S20250720-Em-De-3674,2025-07-20,,Email,Desktop,/,12,3
+S20250720-Em-Mo-8504,2025-07-20,,Email,Mobile,/,48,16
+S20250720-Or-De-2613,2025-07-20,,Organic,Desktop,/,81,36
+S20250720-Or-Mo-8623,2025-07-20,,Organic,Mobile,/,58,25
+S20250720-Re-De-5802,2025-07-20,,Referral,Desktop,/,3,1
+S20250720-Re-Mo-4158,2025-07-20,,Referral,Mobile,/,25,9
+S20250721-Pa-De-1059,2025-07-21,,Paid Search,Desktop,/,144,48
+S20250721-Pa-Mo-7199,2025-07-21,,Paid Search,Mobile,/,17,5
+S20250721-Pa-De-4421,2025-07-21,,Paid Social,Desktop,/,31,15
+S20250721-Pa-Mo-7580,2025-07-21,,Paid Social,Mobile,/,112,57
+S20250721-Em-De-9749,2025-07-21,,Email,Desktop,/,6,1
+S20250721-Em-Mo-6965,2025-07-21,,Email,Mobile,/,64,11
+S20250721-Or-De-1139,2025-07-21,,Organic,Desktop,/,33,12
+S20250721-Or-Mo-8644,2025-07-21,,Organic,Mobile,/,128,48
+S20250721-Re-De-4235,2025-07-21,,Referral,Desktop,/,7,2
+S20250721-Re-Mo-3594,2025-07-21,,Referral,Mobile,/,34,12
+S20250722-Pa-De-1735,2025-07-22,,Paid Search,Desktop,/,5,1
+S20250722-Pa-Mo-7777,2025-07-22,,Paid Search,Mobile,/,156,59
+S20250722-Pa-De-8268,2025-07-22,,Paid Social,Desktop,/,89,50
+S20250722-Pa-Mo-6877,2025-07-22,,Paid Social,Mobile,/,31,17
+S20250722-Em-De-5127,2025-07-22,,Email,Desktop,/,16,3
+S20250722-Em-Mo-9331,2025-07-22,,Email,Mobile,/,46,8
+S20250722-Or-De-1057,2025-07-22,,Organic,Desktop,/,12,3
+S20250722-Or-Mo-4496,2025-07-22,,Organic,Mobile,/,154,49
+S20250722-Re-De-4678,2025-07-22,,Referral,Desktop,/,0,0
+S20250722-Re-Mo-1998,2025-07-22,,Referral,Mobile,/,32,8
+S20250723-Pa-De-1540,2025-07-23,,Paid Search,Desktop,/,94,29
+S20250723-Pa-Mo-6945,2025-07-23,,Paid Search,Mobile,/,45,14
+S20250723-Pa-De-8645,2025-07-23,,Paid Social,Desktop,/,19,9
+S20250723-Pa-Mo-6740,2025-07-23,,Paid Social,Mobile,/,114,52
+S20250723-Em-De-3578,2025-07-23,,Email,Desktop,/,6,1
+S20250723-Em-Mo-2026,2025-07-23,,Email,Mobile,/,57,19
+S20250723-Or-De-7604,2025-07-23,,Organic,Desktop,/,40,13
+S20250723-Or-Mo-6789,2025-07-23,,Organic,Mobile,/,111,38
+S20250723-Re-De-6261,2025-07-23,,Referral,Desktop,/,16,3
+S20250723-Re-Mo-5268,2025-07-23,,Referral,Mobile,/,19,4
+S20250724-Pa-De-3552,2025-07-24,,Paid Search,Desktop,/,88,32
+S20250724-Pa-Mo-2482,2025-07-24,,Paid Search,Mobile,/,87,32
+S20250724-Pa-De-9935,2025-07-24,,Paid Social,Desktop,/,62,32
+S20250724-Pa-Mo-7566,2025-07-24,,Paid Social,Mobile,/,64,33
+S20250724-Em-De-6389,2025-07-24,,Email,Desktop,/,8,1
+S20250724-Em-Mo-2318,2025-07-24,,Email,Mobile,/,61,15
+S20250724-Or-De-2039,2025-07-24,,Organic,Desktop,/,16,5
+S20250724-Or-Mo-4904,2025-07-24,,Organic,Mobile,/,156,57
+S20250724-Re-De-5996,2025-07-24,,Referral,Desktop,/,18,4
+S20250724-Re-Mo-7569,2025-07-24,,Referral,Mobile,/,24,5
+S20250725-Pa-De-6999,2025-07-25,,Paid Search,Desktop,/,15,4
+S20250725-Pa-Mo-5197,2025-07-25,,Paid Search,Mobile,/,138,45
+S20250725-Pa-De-7597,2025-07-25,,Paid Social,Desktop,/,47,24
+S20250725-Pa-Mo-2407,2025-07-25,,Paid Social,Mobile,/,77,40
+S20250725-Em-De-1134,2025-07-25,,Email,Desktop,/,2,0
+S20250725-Em-Mo-3859,2025-07-25,,Email,Mobile,/,57,17
+S20250725-Or-De-6298,2025-07-25,,Organic,Desktop,/,55,16
+S20250725-Or-Mo-7814,2025-07-25,,Organic,Mobile,/,95,28
+S20250725-Re-De-5480,2025-07-25,,Referral,Desktop,/,2,0
+S20250725-Re-Mo-7619,2025-07-25,,Referral,Mobile,/,37,9
+S20250726-Pa-De-3369,2025-07-26,,Paid Search,Desktop,/,84,30
+S20250726-Pa-Mo-5065,2025-07-26,,Paid Search,Mobile,/,134,47
+S20250726-Pa-De-8245,2025-07-26,,Paid Social,Desktop,/,97,51
+S20250726-Pa-Mo-1989,2025-07-26,,Paid Social,Mobile,/,108,56
+S20250726-Em-De-2620,2025-07-26,,Email,Desktop,/,10,2
+S20250726-Em-Mo-5649,2025-07-26,,Email,Mobile,/,83,22
+S20250726-Or-De-5010,2025-07-26,,Organic,Desktop,/,8,2
+S20250726-Or-Mo-7665,2025-07-26,,Organic,Mobile,/,212,67
+S20250726-Re-De-3536,2025-07-26,,Referral,Desktop,/,21,6
+S20250726-Re-Mo-4259,2025-07-26,,Referral,Mobile,/,39,12
+S20250727-Pa-De-1453,2025-07-27,,Paid Search,Desktop,/,83,25
+S20250727-Pa-Mo-3734,2025-07-27,,Paid Search,Mobile,/,91,27
+S20250727-Pa-De-9388,2025-07-27,,Paid Social,Desktop,/,65,29
+S20250727-Pa-Mo-8807,2025-07-27,,Paid Social,Mobile,/,91,41
+S20250727-Em-De-8877,2025-07-27,,Email,Desktop,/,27,7
+S20250727-Em-Mo-3545,2025-07-27,,Email,Mobile,/,49,14
+S20250727-Or-De-7520,2025-07-27,,Organic,Desktop,/,122,45
+S20250727-Or-Mo-1544,2025-07-27,,Organic,Mobile,/,40,14
+S20250727-Re-De-7860,2025-07-27,,Referral,Desktop,/,15,2
+S20250727-Re-Mo-6435,2025-07-27,,Referral,Mobile,/,37,5
+S20250728-Pa-De-8203,2025-07-28,,Paid Search,Desktop,/,36,12
+S20250728-Pa-Mo-5641,2025-07-28,,Paid Search,Mobile,/,157,53
+S20250728-Pa-De-4202,2025-07-28,,Paid Social,Desktop,/,58,28
+S20250728-Pa-Mo-9573,2025-07-28,,Paid Social,Mobile,/,89,44
+S20250728-Em-De-4256,2025-07-28,,Email,Desktop,/,25,3
+S20250728-Em-Mo-5019,2025-07-28,,Email,Mobile,/,31,4
+S20250728-Or-De-5971,2025-07-28,,Organic,Desktop,/,73,27
+S20250728-Or-Mo-8695,2025-07-28,,Organic,Mobile,/,99,36
+S20250728-Re-De-6521,2025-07-28,,Referral,Desktop,/,1,0
+S20250728-Re-Mo-4472,2025-07-28,,Referral,Mobile,/,37,11
+S20250729-Pa-De-6802,2025-07-29,,Paid Search,Desktop,/,18,6
+S20250729-Pa-Mo-1544,2025-07-29,,Paid Search,Mobile,/,121,44
+S20250729-Pa-De-8551,2025-07-29,,Paid Social,Desktop,/,50,21
+S20250729-Pa-Mo-5411,2025-07-29,,Paid Social,Mobile,/,77,33
+S20250729-Em-De-6200,2025-07-29,,Email,Desktop,/,0,0
+S20250729-Em-Mo-5067,2025-07-29,,Email,Mobile,/,70,19
+S20250729-Or-De-9221,2025-07-29,,Organic,Desktop,/,39,11
+S20250729-Or-Mo-4493,2025-07-29,,Organic,Mobile,/,84,24
+S20250729-Re-De-2963,2025-07-29,,Referral,Desktop,/,3,0
+S20250729-Re-Mo-4166,2025-07-29,,Referral,Mobile,/,25,5
+S20250730-Pa-De-5313,2025-07-30,,Paid Search,Desktop,/,85,36
+S20250730-Pa-Mo-2076,2025-07-30,,Paid Search,Mobile,/,39,16
+S20250730-Pa-De-5699,2025-07-30,,Paid Social,Desktop,/,74,41
+S20250730-Pa-Mo-8081,2025-07-30,,Paid Social,Mobile,/,49,28
+S20250730-Em-De-2197,2025-07-30,,Email,Desktop,/,15,5
+S20250730-Em-Mo-2904,2025-07-30,,Email,Mobile,/,30,10
+S20250730-Or-De-6758,2025-07-30,,Organic,Desktop,/,22,7
+S20250730-Or-Mo-3921,2025-07-30,,Organic,Mobile,/,106,36
+S20250730-Re-De-4914,2025-07-30,,Referral,Desktop,/,13,4
+S20250730-Re-Mo-4722,2025-07-30,,Referral,Mobile,/,18,5
+S20250731-Pa-De-2713,2025-07-31,,Paid Search,Desktop,/,5,2
+S20250731-Pa-Mo-8872,2025-07-31,,Paid Search,Mobile,/,117,44
+S20250731-Pa-De-1833,2025-07-31,,Paid Social,Desktop,/,34,14
+S20250731-Pa-Mo-5106,2025-07-31,,Paid Social,Mobile,/,105,45
+S20250731-Em-De-1212,2025-07-31,,Email,Desktop,/,17,4
+S20250731-Em-Mo-7411,2025-07-31,,Email,Mobile,/,45,12
+S20250731-Or-De-1840,2025-07-31,,Organic,Desktop,/,23,7
+S20250731-Or-Mo-2341,2025-07-31,,Organic,Mobile,/,120,35
+S20250731-Re-De-8675,2025-07-31,,Referral,Desktop,/,2,0
+S20250731-Re-Mo-7457,2025-07-31,,Referral,Mobile,/,35,7
+S20250801-Pa-De-9471,2025-08-01,,Paid Search,Desktop,/,19,8
+S20250801-Pa-Mo-2193,2025-08-01,,Paid Search,Mobile,/,111,45
+S20250801-Pa-De-1044,2025-08-01,,Paid Social,Desktop,/,56,28
+S20250801-Pa-Mo-3085,2025-08-01,,Paid Social,Mobile,/,41,20
+S20250801-Em-De-7223,2025-08-01,,Email,Desktop,/,7,2
+S20250801-Em-Mo-5323,2025-08-01,,Email,Mobile,/,59,19
+S20250801-Or-De-6026,2025-08-01,,Organic,Desktop,/,86,32
+S20250801-Or-Mo-3842,2025-08-01,,Organic,Mobile,/,55,20
+S20250801-Re-De-5755,2025-08-01,,Referral,Desktop,/,5,2
+S20250801-Re-Mo-2517,2025-08-01,,Referral,Mobile,/,25,9
+S20250802-Pa-De-2343,2025-08-02,,Paid Search,Desktop,/,31,12
+S20250802-Pa-Mo-6490,2025-08-02,,Paid Search,Mobile,/,152,62
+S20250802-Pa-De-6379,2025-08-02,,Paid Social,Desktop,/,64,29
+S20250802-Pa-Mo-6970,2025-08-02,,Paid Social,Mobile,/,114,53
+S20250802-Em-De-9540,2025-08-02,,Email,Desktop,/,10,3
+S20250802-Em-Mo-9828,2025-08-02,,Email,Mobile,/,54,18
+S20250802-Or-De-9923,2025-08-02,,Organic,Desktop,/,67,25
+S20250802-Or-Mo-7528,2025-08-02,,Organic,Mobile,/,105,39
+S20250802-Re-De-5073,2025-08-02,,Referral,Desktop,/,37,10
+S20250802-Re-Mo-3894,2025-08-02,,Referral,Mobile,/,7,1
+S20250803-Pa-De-1535,2025-08-03,,Paid Search,Desktop,/,167,62
+S20250803-Pa-Mo-8500,2025-08-03,,Paid Search,Mobile,/,73,27
+S20250803-Pa-De-7241,2025-08-03,,Paid Social,Desktop,/,36,17
+S20250803-Pa-Mo-7472,2025-08-03,,Paid Social,Mobile,/,179,88
+S20250803-Em-De-1592,2025-08-03,,Email,Desktop,/,45,14
+S20250803-Em-Mo-1497,2025-08-03,,Email,Mobile,/,51,15
+S20250803-Or-De-4642,2025-08-03,,Organic,Desktop,/,2,0
+S20250803-Or-Mo-4655,2025-08-03,,Organic,Mobile,/,269,96
+S20250803-Re-De-6067,2025-08-03,,Referral,Desktop,/,52,18
+S20250803-Re-Mo-8123,2025-08-03,,Referral,Mobile,/,13,4
+S20250804-Pa-De-8078,2025-08-04,,Paid Search,Desktop,/,17,6
+S20250804-Pa-Mo-2288,2025-08-04,,Paid Search,Mobile,/,109,38
+S20250804-Pa-De-1303,2025-08-04,,Paid Social,Desktop,/,9,5
+S20250804-Pa-Mo-7486,2025-08-04,,Paid Social,Mobile,/,108,56
+S20250804-Em-De-6350,2025-08-04,,Email,Desktop,/,25,5
+S20250804-Em-Mo-5133,2025-08-04,,Email,Mobile,/,38,8
+S20250804-Or-De-8241,2025-08-04,,Organic,Desktop,/,42,15
+S20250804-Or-Mo-3987,2025-08-04,,Organic,Mobile,/,126,46
+S20250804-Re-De-4296,2025-08-04,,Referral,Desktop,/,28,6
+S20250804-Re-Mo-4313,2025-08-04,,Referral,Mobile,/,12,2
+S20250805-Pa-De-7664,2025-08-05,,Paid Search,Desktop,/,19,7
+S20250805-Pa-Mo-8307,2025-08-05,,Paid Search,Mobile,/,101,37
+S20250805-Pa-De-2761,2025-08-05,,Paid Social,Desktop,/,9,4
+S20250805-Pa-Mo-1956,2025-08-05,,Paid Social,Mobile,/,108,47
+S20250805-Em-De-2619,2025-08-05,,Email,Desktop,/,47,13
+S20250805-Em-Mo-2793,2025-08-05,,Email,Mobile,/,9,2
+S20250805-Or-De-9203,2025-08-05,,Organic,Desktop,/,24,7
+S20250805-Or-Mo-6209,2025-08-05,,Organic,Mobile,/,106,33
+S20250805-Re-De-9291,2025-08-05,,Referral,Desktop,/,22,5
+S20250805-Re-Mo-7471,2025-08-05,,Referral,Mobile,/,10,2
+S20250806-Pa-De-8618,2025-08-06,,Paid Search,Desktop,/,28,10
+S20250806-Pa-Mo-4380,2025-08-06,,Paid Search,Mobile,/,101,35
+S20250806-Pa-De-6365,2025-08-06,,Paid Social,Desktop,/,58,29
+S20250806-Pa-Mo-3871,2025-08-06,,Paid Social,Mobile,/,45,22
+S20250806-Em-De-3970,2025-08-06,,Email,Desktop,/,8,1
+S20250806-Em-Mo-5908,2025-08-06,,Email,Mobile,/,53,12
+S20250806-Or-De-9866,2025-08-06,,Organic,Desktop,/,24,10
+S20250806-Or-Mo-1048,2025-08-06,,Organic,Mobile,/,65,26
+S20250806-Re-De-9421,2025-08-06,,Referral,Desktop,/,3,0
+S20250806-Re-Mo-8806,2025-08-06,,Referral,Mobile,/,25,6
+S20250807-Pa-De-1942,2025-08-07,,Paid Search,Desktop,/,17,5
+S20250807-Pa-Mo-9827,2025-08-07,,Paid Search,Mobile,/,108,36
+S20250807-Pa-De-2041,2025-08-07,,Paid Social,Desktop,/,31,14
+S20250807-Pa-Mo-6112,2025-08-07,,Paid Social,Mobile,/,66,32
+S20250807-Em-De-2260,2025-08-07,,Email,Desktop,/,26,4
+S20250807-Em-Mo-4203,2025-08-07,,Email,Mobile,/,29,5
+S20250807-Or-De-1244,2025-08-07,,Organic,Desktop,/,76,27
+S20250807-Or-Mo-5572,2025-08-07,,Organic,Mobile,/,41,14
+S20250807-Re-De-1510,2025-08-07,,Referral,Desktop,/,22,6
+S20250807-Re-Mo-6968,2025-08-07,,Referral,Mobile,/,5,1
+S20250808-Pa-De-4679,2025-08-08,,Paid Search,Desktop,/,43,13
+S20250808-Pa-Mo-9089,2025-08-08,,Paid Search,Mobile,/,115,37
+S20250808-Pa-De-3727,2025-08-08,,Paid Social,Desktop,/,124,55
+S20250808-Pa-Mo-1376,2025-08-08,,Paid Social,Mobile,/,32,14
+S20250808-Em-De-2051,2025-08-08,,Email,Desktop,/,11,2
+S20250808-Em-Mo-9820,2025-08-08,,Email,Mobile,/,36,9
+S20250808-Or-De-4424,2025-08-08,,Organic,Desktop,/,48,16
+S20250808-Or-Mo-7725,2025-08-08,,Organic,Mobile,/,123,43
+S20250808-Re-De-4386,2025-08-08,,Referral,Desktop,/,19,5
+S20250808-Re-Mo-4067,2025-08-08,,Referral,Mobile,/,32,9
+S20250809-Pa-De-9277,2025-08-09,,Paid Search,Desktop,/,3,1
+S20250809-Pa-Mo-1522,2025-08-09,,Paid Search,Mobile,/,286,107
+S20250809-Pa-De-7768,2025-08-09,,Paid Social,Desktop,/,29,12
+S20250809-Pa-Mo-3588,2025-08-09,,Paid Social,Mobile,/,195,86
+S20250809-Em-De-1158,2025-08-09,,Email,Desktop,/,66,19
+S20250809-Em-Mo-3619,2025-08-09,,Email,Mobile,/,42,13
+S20250809-Or-De-5288,2025-08-09,,Organic,Desktop,/,30,11
+S20250809-Or-Mo-9116,2025-08-09,,Organic,Mobile,/,213,76
+S20250809-Re-De-5747,2025-08-09,,Referral,Desktop,/,16,3
+S20250809-Re-Mo-8154,2025-08-09,,Referral,Mobile,/,57,13
+S20250810-Pa-De-5127,2025-08-10,,Paid Search,Desktop,/,96,38
+S20250810-Pa-Mo-8016,2025-08-10,,Paid Search,Mobile,/,46,18
+S20250810-Pa-De-3173,2025-08-10,,Paid Social,Desktop,/,81,39
+S20250810-Pa-Mo-1037,2025-08-10,,Paid Social,Mobile,/,70,34
+S20250810-Em-De-4302,2025-08-10,,Email,Desktop,/,21,5
+S20250810-Em-Mo-9511,2025-08-10,,Email,Mobile,/,46,10
+S20250810-Or-De-6635,2025-08-10,,Organic,Desktop,/,60,19
+S20250810-Or-Mo-4847,2025-08-10,,Organic,Mobile,/,85,26
+S20250810-Re-De-4964,2025-08-10,,Referral,Desktop,/,5,1
+S20250810-Re-Mo-5611,2025-08-10,,Referral,Mobile,/,37,12
+S20250811-Pa-De-4481,2025-08-11,,Paid Search,Desktop,/,71,27
+S20250811-Pa-Mo-9966,2025-08-11,,Paid Search,Mobile,/,112,42
+S20250811-Pa-De-3312,2025-08-11,,Paid Social,Desktop,/,25,13
+S20250811-Pa-Mo-4474,2025-08-11,,Paid Social,Mobile,/,128,67
+S20250811-Em-De-8546,2025-08-11,,Email,Desktop,/,65,24
+S20250811-Em-Mo-5987,2025-08-11,,Email,Mobile,/,15,5
+S20250811-Or-De-2009,2025-08-11,,Organic,Desktop,/,92,29
+S20250811-Or-Mo-3272,2025-08-11,,Organic,Mobile,/,102,31
+S20250811-Re-De-3263,2025-08-11,,Referral,Desktop,/,5,1
+S20250811-Re-Mo-1282,2025-08-11,,Referral,Mobile,/,30,6
+S20250812-Pa-De-7874,2025-08-12,,Paid Search,Desktop,/,4,2
+S20250812-Pa-Mo-8502,2025-08-12,,Paid Search,Mobile,/,122,49
+S20250812-Pa-De-5436,2025-08-12,,Paid Social,Desktop,/,87,42
+S20250812-Pa-Mo-1703,2025-08-12,,Paid Social,Mobile,/,19,9
+S20250812-Em-De-4957,2025-08-12,,Email,Desktop,/,20,4
+S20250812-Em-Mo-5590,2025-08-12,,Email,Mobile,/,38,9
+S20250812-Or-De-2861,2025-08-12,,Organic,Desktop,/,23,9
+S20250812-Or-Mo-5852,2025-08-12,,Organic,Mobile,/,107,41
+S20250812-Re-De-6508,2025-08-12,,Referral,Desktop,/,4,1
+S20250812-Re-Mo-5668,2025-08-12,,Referral,Mobile,/,30,7
+S20250813-Pa-De-9139,2025-08-13,,Paid Search,Desktop,/,20,7
+S20250813-Pa-Mo-4659,2025-08-13,,Paid Search,Mobile,/,112,42
+S20250813-Pa-De-2057,2025-08-13,,Paid Social,Desktop,/,74,31
+S20250813-Pa-Mo-3054,2025-08-13,,Paid Social,Mobile,/,49,20
+S20250813-Em-De-8849,2025-08-13,,Email,Desktop,/,9,2
+S20250813-Em-Mo-5417,2025-08-13,,Email,Mobile,/,50,16
+S20250813-Or-De-8537,2025-08-13,,Organic,Desktop,/,61,22
+S20250813-Or-Mo-3278,2025-08-13,,Organic,Mobile,/,80,29
+S20250813-Re-De-1888,2025-08-13,,Referral,Desktop,/,1,0
+S20250813-Re-Mo-6948,2025-08-13,,Referral,Mobile,/,38,8
+S20250814-Pa-De-1677,2025-08-14,,Paid Search,Desktop,/,20,6
+S20250814-Pa-Mo-9087,2025-08-14,,Paid Search,Mobile,/,88,27
+S20250814-Pa-De-7315,2025-08-14,,Paid Social,Desktop,/,42,24
+S20250814-Pa-Mo-6624,2025-08-14,,Paid Social,Mobile,/,59,32
+S20250814-Em-De-7092,2025-08-14,,Email,Desktop,/,0,0
+S20250814-Em-Mo-8980,2025-08-14,,Email,Mobile,/,54,12
+S20250814-Or-De-4993,2025-08-14,,Organic,Desktop,/,33,10
+S20250814-Or-Mo-4708,2025-08-14,,Organic,Mobile,/,63,20
+S20250814-Re-De-5880,2025-08-14,,Referral,Desktop,/,11,3
+S20250814-Re-Mo-6588,2025-08-14,,Referral,Mobile,/,20,7
+S20250815-Pa-De-5137,2025-08-15,,Paid Search,Desktop,/,19,9
+S20250815-Pa-Mo-5136,2025-08-15,,Paid Search,Mobile,/,92,44
+S20250815-Pa-De-9207,2025-08-15,,Paid Social,Desktop,/,13,6
+S20250815-Pa-Mo-8383,2025-08-15,,Paid Social,Mobile,/,85,40
+S20250815-Em-De-3857,2025-08-15,,Email,Desktop,/,0,0
+S20250815-Em-Mo-5349,2025-08-15,,Email,Mobile,/,43,15
+S20250815-Or-De-8244,2025-08-15,,Organic,Desktop,/,2,0
+S20250815-Or-Mo-1878,2025-08-15,,Organic,Mobile,/,119,43
+S20250815-Re-De-9462,2025-08-15,,Referral,Desktop,/,8,3
+S20250815-Re-Mo-6636,2025-08-15,,Referral,Mobile,/,27,10
+S20250816-Pa-De-1851,2025-08-16,,Paid Search,Desktop,/,13,5
+S20250816-Pa-Mo-1859,2025-08-16,,Paid Search,Mobile,/,114,44
+S20250816-Pa-De-1243,2025-08-16,,Paid Social,Desktop,/,23,11
+S20250816-Pa-Mo-5037,2025-08-16,,Paid Social,Mobile,/,105,53
+S20250816-Em-De-8701,2025-08-16,,Email,Desktop,/,11,3
+S20250816-Em-Mo-8795,2025-08-16,,Email,Mobile,/,46,15
+S20250816-Or-De-5570,2025-08-16,,Organic,Desktop,/,62,20
+S20250816-Or-Mo-3452,2025-08-16,,Organic,Mobile,/,88,28
+S20250816-Re-De-4340,2025-08-16,,Referral,Desktop,/,33,10
+S20250816-Re-Mo-4844,2025-08-16,,Referral,Mobile,/,11,3
+S20250817-Pa-De-4483,2025-08-17,,Paid Search,Desktop,/,55,22
+S20250817-Pa-Mo-4019,2025-08-17,,Paid Search,Mobile,/,76,31
+S20250817-Pa-De-9666,2025-08-17,,Paid Social,Desktop,/,88,49
+S20250817-Pa-Mo-5269,2025-08-17,,Paid Social,Mobile,/,48,26
+S20250817-Em-De-1158,2025-08-17,,Email,Desktop,/,30,12
+S20250817-Em-Mo-7741,2025-08-17,,Email,Mobile,/,19,8
+S20250817-Or-De-7670,2025-08-17,,Organic,Desktop,/,79,25
+S20250817-Or-Mo-9192,2025-08-17,,Organic,Mobile,/,47,14
+S20250817-Re-De-9889,2025-08-17,,Referral,Desktop,/,27,3
+S20250817-Re-Mo-3419,2025-08-17,,Referral,Mobile,/,6,1
+S20250818-Pa-De-6085,2025-08-18,,Paid Search,Desktop,/,19,6
+S20250818-Pa-Mo-6646,2025-08-18,,Paid Search,Mobile,/,106,34
+S20250818-Pa-De-3979,2025-08-18,,Paid Social,Desktop,/,11,5
+S20250818-Pa-Mo-4605,2025-08-18,,Paid Social,Mobile,/,105,48
+S20250818-Em-De-7673,2025-08-18,,Email,Desktop,/,1,0
+S20250818-Em-Mo-4729,2025-08-18,,Email,Mobile,/,52,12
+S20250818-Or-De-3193,2025-08-18,,Organic,Desktop,/,49,18
+S20250818-Or-Mo-9082,2025-08-18,,Organic,Mobile,/,78,30
+S20250818-Re-De-1510,2025-08-18,,Referral,Desktop,/,6,1
+S20250818-Re-Mo-7162,2025-08-18,,Referral,Mobile,/,26,8
+S20250819-Pa-De-6819,2025-08-19,,Paid Search,Desktop,/,118,45
+S20250819-Pa-Mo-7742,2025-08-19,,Paid Search,Mobile,/,48,19
+S20250819-Pa-De-4849,2025-08-19,,Paid Social,Desktop,/,38,16
+S20250819-Pa-Mo-2777,2025-08-19,,Paid Social,Mobile,/,83,36
+S20250819-Em-De-8948,2025-08-19,,Email,Desktop,/,50,14
+S20250819-Em-Mo-3592,2025-08-19,,Email,Mobile,/,36,10
+S20250819-Or-De-4343,2025-08-19,,Organic,Desktop,/,2,0
+S20250819-Or-Mo-3486,2025-08-19,,Organic,Mobile,/,172,46
+S20250819-Re-De-8419,2025-08-19,,Referral,Desktop,/,4,1
+S20250819-Re-Mo-9447,2025-08-19,,Referral,Mobile,/,39,13
+S20250820-Pa-De-6647,2025-08-20,,Paid Search,Desktop,/,13,5
+S20250820-Pa-Mo-7785,2025-08-20,,Paid Search,Mobile,/,127,46
+S20250820-Pa-De-5836,2025-08-20,,Paid Social,Desktop,/,21,9
+S20250820-Pa-Mo-1459,2025-08-20,,Paid Social,Mobile,/,102,48
+S20250820-Em-De-3552,2025-08-20,,Email,Desktop,/,7,1
+S20250820-Em-Mo-6378,2025-08-20,,Email,Mobile,/,51,12
+S20250820-Or-De-8307,2025-08-20,,Organic,Desktop,/,41,15
+S20250820-Or-Mo-6617,2025-08-20,,Organic,Mobile,/,90,32
+S20250820-Re-De-7168,2025-08-20,,Referral,Desktop,/,3,1
+S20250820-Re-Mo-4475,2025-08-20,,Referral,Mobile,/,24,6
+S20250821-Pa-De-9377,2025-08-21,,Paid Search,Desktop,/,132,47
+S20250821-Pa-Mo-5438,2025-08-21,,Paid Search,Mobile,/,91,33
+S20250821-Pa-De-1560,2025-08-21,,Paid Social,Desktop,/,31,16
+S20250821-Pa-Mo-2189,2025-08-21,,Paid Social,Mobile,/,121,63
+S20250821-Em-De-3398,2025-08-21,,Email,Desktop,/,56,13
+S20250821-Em-Mo-7226,2025-08-21,,Email,Mobile,/,32,8
+S20250821-Or-De-5399,2025-08-21,,Organic,Desktop,/,48,14
+S20250821-Or-Mo-4226,2025-08-21,,Organic,Mobile,/,172,52
+S20250821-Re-De-8578,2025-08-21,,Referral,Desktop,/,21,6
+S20250821-Re-Mo-5879,2025-08-21,,Referral,Mobile,/,34,10
+S20250822-Pa-De-9166,2025-08-22,,Paid Search,Desktop,/,20,8
+S20250822-Pa-Mo-7025,2025-08-22,,Paid Search,Mobile,/,84,36
+S20250822-Pa-De-9102,2025-08-22,,Paid Social,Desktop,/,46,24
+S20250822-Pa-Mo-4844,2025-08-22,,Paid Social,Mobile,/,50,26
+S20250822-Em-De-8179,2025-08-22,,Email,Desktop,/,12,2
+S20250822-Em-Mo-2510,2025-08-22,,Email,Mobile,/,37,6
+S20250822-Or-De-7768,2025-08-22,,Organic,Desktop,/,17,6
+S20250822-Or-Mo-4411,2025-08-22,,Organic,Mobile,/,88,32
+S20250822-Re-De-9796,2025-08-22,,Referral,Desktop,/,3,1
+S20250822-Re-Mo-7426,2025-08-22,,Referral,Mobile,/,20,7
+S20250823-Pa-De-4300,2025-08-23,,Paid Search,Desktop,/,70,24
+S20250823-Pa-Mo-5004,2025-08-23,,Paid Search,Mobile,/,37,13
+S20250823-Pa-De-1779,2025-08-23,,Paid Social,Desktop,/,13,7
+S20250823-Pa-Mo-3134,2025-08-23,,Paid Social,Mobile,/,98,49
+S20250823-Em-De-3534,2025-08-23,,Email,Desktop,/,31,9
+S20250823-Em-Mo-3180,2025-08-23,,Email,Mobile,/,26,8
+S20250823-Or-De-6485,2025-08-23,,Organic,Desktop,/,27,9
+S20250823-Or-Mo-2717,2025-08-23,,Organic,Mobile,/,102,34
+S20250823-Re-De-6755,2025-08-23,,Referral,Desktop,/,0,0
+S20250823-Re-Mo-7283,2025-08-23,,Referral,Mobile,/,35,9
+S20250824-Pa-De-3233,2025-08-24,,Paid Search,Desktop,/,12,3
+S20250824-Pa-Mo-6637,2025-08-24,,Paid Search,Mobile,/,171,51
+S20250824-Pa-De-2630,2025-08-24,,Paid Social,Desktop,/,30,14
+S20250824-Pa-Mo-6060,2025-08-24,,Paid Social,Mobile,/,110,50
+S20250824-Em-De-7281,2025-08-24,,Email,Desktop,/,26,6
+S20250824-Em-Mo-9558,2025-08-24,,Email,Mobile,/,62,15
+S20250824-Or-De-3256,2025-08-24,,Organic,Desktop,/,68,25
+S20250824-Or-Mo-5103,2025-08-24,,Organic,Mobile,/,115,41
+S20250824-Re-De-2732,2025-08-24,,Referral,Desktop,/,9,3
+S20250824-Re-Mo-1814,2025-08-24,,Referral,Mobile,/,29,9
+S20250825-Pa-De-4406,2025-08-25,,Paid Search,Desktop,/,4,1
+S20250825-Pa-Mo-1946,2025-08-25,,Paid Search,Mobile,/,132,49
+S20250825-Pa-De-4403,2025-08-25,,Paid Social,Desktop,/,6,2
+S20250825-Pa-Mo-3254,2025-08-25,,Paid Social,Mobile,/,106,51
+S20250825-Em-De-8384,2025-08-25,,Email,Desktop,/,23,7
+S20250825-Em-Mo-6678,2025-08-25,,Email,Mobile,/,46,14
+S20250825-Or-De-1754,2025-08-25,,Organic,Desktop,/,26,10
+S20250825-Or-Mo-6217,2025-08-25,,Organic,Mobile,/,134,52
+S20250825-Re-De-8007,2025-08-25,,Referral,Desktop,/,30,10
+S20250825-Re-Mo-1415,2025-08-25,,Referral,Mobile,/,8,3
+S20250826-Pa-De-9764,2025-08-26,,Paid Search,Desktop,/,83,29
+S20250826-Pa-Mo-8386,2025-08-26,,Paid Search,Mobile,/,79,27
+S20250826-Pa-De-4735,2025-08-26,,Paid Social,Desktop,/,19,9
+S20250826-Pa-Mo-9114,2025-08-26,,Paid Social,Mobile,/,123,61
+S20250826-Em-De-8483,2025-08-26,,Email,Desktop,/,10,2
+S20250826-Em-Mo-5132,2025-08-26,,Email,Mobile,/,70,17
+S20250826-Or-De-3090,2025-08-26,,Organic,Desktop,/,25,8
+S20250826-Or-Mo-2116,2025-08-26,,Organic,Mobile,/,141,47
+S20250826-Re-De-4345,2025-08-26,,Referral,Desktop,/,20,7
+S20250826-Re-Mo-7996,2025-08-26,,Referral,Mobile,/,26,8
+S20250827-Pa-De-5744,2025-08-27,,Paid Search,Desktop,/,36,11
+S20250827-Pa-Mo-8735,2025-08-27,,Paid Search,Mobile,/,136,43
+S20250827-Pa-De-3725,2025-08-27,,Paid Social,Desktop,/,44,20
+S20250827-Pa-Mo-5599,2025-08-27,,Paid Social,Mobile,/,128,58
+S20250827-Em-De-4278,2025-08-27,,Email,Desktop,/,50,16
+S20250827-Em-Mo-3038,2025-08-27,,Email,Mobile,/,16,5
+S20250827-Or-De-8001,2025-08-27,,Organic,Desktop,/,110,35
+S20250827-Or-Mo-2387,2025-08-27,,Organic,Mobile,/,70,23
+S20250827-Re-De-2595,2025-08-27,,Referral,Desktop,/,30,11
+S20250827-Re-Mo-9308,2025-08-27,,Referral,Mobile,/,15,5
+S20250828-Pa-De-7062,2025-08-28,,Paid Search,Desktop,/,61,23
+S20250828-Pa-Mo-4079,2025-08-28,,Paid Search,Mobile,/,147,57
+S20250828-Pa-De-1312,2025-08-28,,Paid Social,Desktop,/,1,0
+S20250828-Pa-Mo-7671,2025-08-28,,Paid Social,Mobile,/,179,91
+S20250828-Em-De-9092,2025-08-28,,Email,Desktop,/,19,6
+S20250828-Em-Mo-8278,2025-08-28,,Email,Mobile,/,68,20
+S20250828-Or-De-4638,2025-08-28,,Organic,Desktop,/,20,6
+S20250828-Or-Mo-8517,2025-08-28,,Organic,Mobile,/,179,54
+S20250828-Re-De-2904,2025-08-28,,Referral,Desktop,/,45,14
+S20250828-Re-Mo-7165,2025-08-28,,Referral,Mobile,/,6,1
+S20250829-Pa-De-2820,2025-08-29,,Paid Search,Desktop,/,92,33
+S20250829-Pa-Mo-9840,2025-08-29,,Paid Search,Mobile,/,43,15
+S20250829-Pa-De-6233,2025-08-29,,Paid Social,Desktop,/,16,6
+S20250829-Pa-Mo-6635,2025-08-29,,Paid Social,Mobile,/,104,43
+S20250829-Em-De-1462,2025-08-29,,Email,Desktop,/,2,0
+S20250829-Em-Mo-7707,2025-08-29,,Email,Mobile,/,50,11
+S20250829-Or-De-9003,2025-08-29,,Organic,Desktop,/,69,25
+S20250829-Or-Mo-1337,2025-08-29,,Organic,Mobile,/,68,25
+S20250829-Re-De-1871,2025-08-29,,Referral,Desktop,/,4,1
+S20250829-Re-Mo-4409,2025-08-29,,Referral,Mobile,/,22,4
+S20250830-Pa-De-7565,2025-08-30,,Paid Search,Desktop,/,90,33
+S20250830-Pa-Mo-8105,2025-08-30,,Paid Search,Mobile,/,166,61
+S20250830-Pa-De-7824,2025-08-30,,Paid Social,Desktop,/,23,10
+S20250830-Pa-Mo-2459,2025-08-30,,Paid Social,Mobile,/,197,89
+S20250830-Em-De-8601,2025-08-30,,Email,Desktop,/,31,8
+S20250830-Em-Mo-3373,2025-08-30,,Email,Mobile,/,75,20
+S20250830-Or-De-7992,2025-08-30,,Organic,Desktop,/,8,2
+S20250830-Or-Mo-1738,2025-08-30,,Organic,Mobile,/,236,79
+S20250830-Re-De-5000,2025-08-30,,Referral,Desktop,/,12,4
+S20250830-Re-Mo-5545,2025-08-30,,Referral,Mobile,/,52,19
+S20250831-Pa-De-7745,2025-08-31,,Paid Search,Desktop,/,37,12
+S20250831-Pa-Mo-6202,2025-08-31,,Paid Search,Mobile,/,153,50
+S20250831-Pa-De-6321,2025-08-31,,Paid Social,Desktop,/,9,4
+S20250831-Pa-Mo-8148,2025-08-31,,Paid Social,Mobile,/,176,76
+S20250831-Em-De-8197,2025-08-31,,Email,Desktop,/,1,0
+S20250831-Em-Mo-2702,2025-08-31,,Email,Mobile,/,81,24
+S20250831-Or-De-1265,2025-08-31,,Organic,Desktop,/,44,15
+S20250831-Or-Mo-9219,2025-08-31,,Organic,Mobile,/,157,55
+S20250831-Re-De-9292,2025-08-31,,Referral,Desktop,/,11,3
+S20250831-Re-Mo-6398,2025-08-31,,Referral,Mobile,/,39,12
+S20250901-Pa-De-5640,2025-09-01,,Paid Search,Desktop,/,28,11
+S20250901-Pa-Mo-6333,2025-09-01,,Paid Search,Mobile,/,155,59
+S20250901-Pa-De-6960,2025-09-01,,Paid Social,Desktop,/,103,55
+S20250901-Pa-Mo-9343,2025-09-01,,Paid Social,Mobile,/,84,44
+S20250901-Em-De-5191,2025-09-01,,Email,Desktop,/,47,14
+S20250901-Em-Mo-8156,2025-09-01,,Email,Mobile,/,43,13
+S20250901-Or-De-2609,2025-09-01,,Organic,Desktop,/,2,0
+S20250901-Or-Mo-7714,2025-09-01,,Organic,Mobile,/,190,51
+S20250901-Re-De-3053,2025-09-01,,Referral,Desktop,/,27,7
+S20250901-Re-Mo-8763,2025-09-01,,Referral,Mobile,/,25,7
+S20250902-Pa-De-4417,2025-09-02,,Paid Search,Desktop,/,75,27
+S20250902-Pa-Mo-1248,2025-09-02,,Paid Search,Mobile,/,72,26
+S20250902-Pa-De-3694,2025-09-02,,Paid Social,Desktop,/,67,30
+S20250902-Pa-Mo-6493,2025-09-02,,Paid Social,Mobile,/,68,30
+S20250902-Em-De-2089,2025-09-02,,Email,Desktop,/,18,6
+S20250902-Em-Mo-9421,2025-09-02,,Email,Mobile,/,37,13
+S20250902-Or-De-7633,2025-09-02,,Organic,Desktop,/,17,5
+S20250902-Or-Mo-1232,2025-09-02,,Organic,Mobile,/,105,32
+S20250902-Re-De-4779,2025-09-02,,Referral,Desktop,/,30,10
+S20250902-Re-Mo-6654,2025-09-02,,Referral,Mobile,/,5,2
+S20250903-Pa-De-2960,2025-09-03,,Paid Search,Desktop,/,9,2
+S20250903-Pa-Mo-8902,2025-09-03,,Paid Search,Mobile,/,40,11
+S20250903-Pa-De-9307,2025-09-03,,Paid Social,Desktop,/,26,12
+S20250903-Pa-Mo-8570,2025-09-03,,Paid Social,Mobile,/,29,13
+S20250903-Em-De-8805,2025-09-03,,Email,Desktop,/,13,2
+S20250903-Em-Mo-1968,2025-09-03,,Email,Mobile,/,15,3
+S20250903-Or-De-5819,2025-09-03,,Organic,Desktop,/,63,19
+S20250903-Or-Mo-8632,2025-09-03,,Organic,Mobile,/,22,6
+S20250903-Re-De-2495,2025-09-03,,Referral,Desktop,/,2,1
+S20250903-Re-Mo-8978,2025-09-03,,Referral,Mobile,/,17,8
+S20250904-Pa-De-5080,2025-09-04,,Paid Search,Desktop,/,19,6
+S20250904-Pa-Mo-7377,2025-09-04,,Paid Search,Mobile,/,66,22
+S20250904-Pa-De-5477,2025-09-04,,Paid Social,Desktop,/,3,1
+S20250904-Pa-Mo-2371,2025-09-04,,Paid Social,Mobile,/,72,25
+S20250904-Em-De-5998,2025-09-04,,Email,Desktop,/,35,8
+S20250904-Em-Mo-5342,2025-09-04,,Email,Mobile,/,18,4
+S20250904-Or-De-7914,2025-09-04,,Organic,Desktop,/,20,8
+S20250904-Or-Mo-6306,2025-09-04,,Organic,Mobile,/,57,24
+S20250904-Re-De-9387,2025-09-04,,Referral,Desktop,/,9,3
+S20250904-Re-Mo-4096,2025-09-04,,Referral,Mobile,/,9,2
+S20250905-Pa-De-6878,2025-09-05,,Paid Search,Desktop,/,45,18
+S20250905-Pa-Mo-5509,2025-09-05,,Paid Search,Mobile,/,100,39
+S20250905-Pa-De-8807,2025-09-05,,Paid Social,Desktop,/,116,50
+S20250905-Pa-Mo-2412,2025-09-05,,Paid Social,Mobile,/,14,6
+S20250905-Em-De-5290,2025-09-05,,Email,Desktop,/,32,7
+S20250905-Em-Mo-5142,2025-09-05,,Email,Mobile,/,35,8
+S20250905-Or-De-8345,2025-09-05,,Organic,Desktop,/,22,7
+S20250905-Or-Mo-9306,2025-09-05,,Organic,Mobile,/,130,41
+S20250905-Re-De-2568,2025-09-05,,Referral,Desktop,/,8,3
+S20250905-Re-Mo-1741,2025-09-05,,Referral,Mobile,/,40,15
+S20250906-Pa-De-5808,2025-09-06,,Paid Search,Desktop,/,176,67
+S20250906-Pa-Mo-9833,2025-09-06,,Paid Search,Mobile,/,92,35
+S20250906-Pa-De-4106,2025-09-06,,Paid Social,Desktop,/,77,36
+S20250906-Pa-Mo-9975,2025-09-06,,Paid Social,Mobile,/,187,87
+S20250906-Em-De-4481,2025-09-06,,Email,Desktop,/,76,17
+S20250906-Em-Mo-6772,2025-09-06,,Email,Mobile,/,49,11
+S20250906-Or-De-8051,2025-09-06,,Organic,Desktop,/,100,31
+S20250906-Or-Mo-5068,2025-09-06,,Organic,Mobile,/,191,60
+S20250906-Re-De-6869,2025-09-06,,Referral,Desktop,/,1,0
+S20250906-Re-Mo-9273,2025-09-06,,Referral,Mobile,/,65,19
+S20250907-Pa-De-1170,2025-09-07,,Paid Search,Desktop,/,25,6
+S20250907-Pa-Mo-9769,2025-09-07,,Paid Search,Mobile,/,9,2
+S20250907-Pa-De-8755,2025-09-07,,Paid Social,Desktop,/,24,12
+S20250907-Pa-Mo-9986,2025-09-07,,Paid Social,Mobile,/,29,14
+S20250907-Em-De-8720,2025-09-07,,Email,Desktop,/,6,1
+S20250907-Em-Mo-3621,2025-09-07,,Email,Mobile,/,9,2
+S20250907-Or-De-5918,2025-09-07,,Organic,Desktop,/,5,1
+S20250907-Or-Mo-9715,2025-09-07,,Organic,Mobile,/,58,20
+S20250907-Re-De-8617,2025-09-07,,Referral,Desktop,/,1,0
+S20250907-Re-Mo-9082,2025-09-07,,Referral,Mobile,/,17,2
+S20250908-Pa-De-9369,2025-09-08,,Paid Search,Desktop,/,22,7
+S20250908-Pa-Mo-6542,2025-09-08,,Paid Search,Mobile,/,133,47
+S20250908-Pa-De-7326,2025-09-08,,Paid Social,Desktop,/,12,6
+S20250908-Pa-Mo-9207,2025-09-08,,Paid Social,Mobile,/,125,66
+S20250908-Em-De-2113,2025-09-08,,Email,Desktop,/,41,13
+S20250908-Em-Mo-1983,2025-09-08,,Email,Mobile,/,17,5
+S20250908-Or-De-7652,2025-09-08,,Organic,Desktop,/,22,9
+S20250908-Or-Mo-5387,2025-09-08,,Organic,Mobile,/,119,48
+S20250908-Re-De-7568,2025-09-08,,Referral,Desktop,/,11,3
+S20250908-Re-Mo-9852,2025-09-08,,Referral,Mobile,/,27,9
+S20250909-Pa-De-1458,2025-09-09,,Paid Search,Desktop,/,1,0
+S20250909-Pa-Mo-8580,2025-09-09,,Paid Search,Mobile,/,137,59
+S20250909-Pa-De-6643,2025-09-09,,Paid Social,Desktop,/,35,16
+S20250909-Pa-Mo-1942,2025-09-09,,Paid Social,Mobile,/,87,42
+S20250909-Em-De-1258,2025-09-09,,Email,Desktop,/,31,10
+S20250909-Em-Mo-2110,2025-09-09,,Email,Mobile,/,22,7
+S20250909-Or-De-6140,2025-09-09,,Organic,Desktop,/,50,19
+S20250909-Or-Mo-3686,2025-09-09,,Organic,Mobile,/,75,28
+S20250909-Re-De-5738,2025-09-09,,Referral,Desktop,/,10,4
+S20250909-Re-Mo-1391,2025-09-09,,Referral,Mobile,/,20,10
+S20250910-Pa-De-7875,2025-09-10,,Paid Search,Desktop,/,14,5
+S20250910-Pa-Mo-7828,2025-09-10,,Paid Search,Mobile,/,130,48
+S20250910-Pa-De-4163,2025-09-10,,Paid Social,Desktop,/,23,11
+S20250910-Pa-Mo-8488,2025-09-10,,Paid Social,Mobile,/,109,50
+S20250910-Em-De-9155,2025-09-10,,Email,Desktop,/,23,6
+S20250910-Em-Mo-8069,2025-09-10,,Email,Mobile,/,27,7
+S20250910-Or-De-7444,2025-09-10,,Organic,Desktop,/,147,42
+S20250910-Or-Mo-2840,2025-09-10,,Organic,Mobile,/,8,2
+S20250910-Re-De-6340,2025-09-10,,Referral,Desktop,/,0,0
+S20250910-Re-Mo-1452,2025-09-10,,Referral,Mobile,/,40,10
+S20250911-Pa-De-7363,2025-09-11,,Paid Search,Desktop,/,11,4
+S20250911-Pa-Mo-9079,2025-09-11,,Paid Search,Mobile,/,128,52
+S20250911-Pa-De-5521,2025-09-11,,Paid Social,Desktop,/,58,29
+S20250911-Pa-Mo-4047,2025-09-11,,Paid Social,Mobile,/,63,32
+S20250911-Em-De-2627,2025-09-11,,Email,Desktop,/,20,6
+S20250911-Em-Mo-7043,2025-09-11,,Email,Mobile,/,38,12
+S20250911-Or-De-2474,2025-09-11,,Organic,Desktop,/,26,9
+S20250911-Or-Mo-7477,2025-09-11,,Organic,Mobile,/,108,36
+S20250911-Re-De-4973,2025-09-11,,Referral,Desktop,/,20,7
+S20250911-Re-Mo-7661,2025-09-11,,Referral,Mobile,/,25,9
+S20250912-Pa-De-6776,2025-09-12,,Paid Search,Desktop,/,61,25
+S20250912-Pa-Mo-1444,2025-09-12,,Paid Search,Mobile,/,115,46
+S20250912-Pa-De-7771,2025-09-12,,Paid Social,Desktop,/,55,22
+S20250912-Pa-Mo-5688,2025-09-12,,Paid Social,Mobile,/,81,33
+S20250912-Em-De-9532,2025-09-12,,Email,Desktop,/,1,0
+S20250912-Em-Mo-1733,2025-09-12,,Email,Mobile,/,58,14
+S20250912-Or-De-9031,2025-09-12,,Organic,Desktop,/,41,12
+S20250912-Or-Mo-2419,2025-09-12,,Organic,Mobile,/,135,42
+S20250912-Re-De-6435,2025-09-12,,Referral,Desktop,/,36,8
+S20250912-Re-Mo-5800,2025-09-12,,Referral,Mobile,/,4,0
+S20250913-Pa-De-6785,2025-09-13,,Paid Search,Desktop,/,30,10
+S20250913-Pa-Mo-6093,2025-09-13,,Paid Search,Mobile,/,143,47
+S20250913-Pa-De-3333,2025-09-13,,Paid Social,Desktop,/,45,20
+S20250913-Pa-Mo-5386,2025-09-13,,Paid Social,Mobile,/,114,49
+S20250913-Em-De-2108,2025-09-13,,Email,Desktop,/,10,2
+S20250913-Em-Mo-5756,2025-09-13,,Email,Mobile,/,52,12
+S20250913-Or-De-4338,2025-09-13,,Organic,Desktop,/,29,9
+S20250913-Or-Mo-6804,2025-09-13,,Organic,Mobile,/,156,48
+S20250913-Re-De-1874,2025-09-13,,Referral,Desktop,/,4,1
+S20250913-Re-Mo-8303,2025-09-13,,Referral,Mobile,/,45,12
+S20250914-Pa-De-8492,2025-09-14,,Paid Search,Desktop,/,23,7
+S20250914-Pa-Mo-4438,2025-09-14,,Paid Search,Mobile,/,142,47
+S20250914-Pa-De-4930,2025-09-14,,Paid Social,Desktop,/,54,23
+S20250914-Pa-Mo-5960,2025-09-14,,Paid Social,Mobile,/,115,51
+S20250914-Em-De-9934,2025-09-14,,Email,Desktop,/,31,6
+S20250914-Em-Mo-7728,2025-09-14,,Email,Mobile,/,41,7
+S20250914-Or-De-6609,2025-09-14,,Organic,Desktop,/,64,20
+S20250914-Or-Mo-8778,2025-09-14,,Organic,Mobile,/,103,31
+S20250914-Re-De-8719,2025-09-14,,Referral,Desktop,/,6,1
+S20250914-Re-Mo-5310,2025-09-14,,Referral,Mobile,/,42,7
+S20250915-Pa-De-3856,2025-09-15,,Paid Search,Desktop,/,30,11
+S20250915-Pa-Mo-6578,2025-09-15,,Paid Search,Mobile,/,81,30
+S20250915-Pa-De-4374,2025-09-15,,Paid Social,Desktop,/,12,7
+S20250915-Pa-Mo-8640,2025-09-15,,Paid Social,Mobile,/,97,54
+S20250915-Em-De-3113,2025-09-15,,Email,Desktop,/,47,15
+S20250915-Em-Mo-8555,2025-09-15,,Email,Mobile,/,20,6
+S20250915-Or-De-4106,2025-09-15,,Organic,Desktop,/,10,3
+S20250915-Or-Mo-4936,2025-09-15,,Organic,Mobile,/,106,37
+S20250915-Re-De-3040,2025-09-15,,Referral,Desktop,/,15,8
+S20250915-Re-Mo-8934,2025-09-15,,Referral,Mobile,/,19,10
+S20250916-Pa-De-3496,2025-09-16,,Paid Search,Desktop,/,19,7
+S20250916-Pa-Mo-4562,2025-09-16,,Paid Search,Mobile,/,161,60
+S20250916-Pa-De-3781,2025-09-16,,Paid Social,Desktop,/,97,46
+S20250916-Pa-Mo-3612,2025-09-16,,Paid Social,Mobile,/,27,13
+S20250916-Em-De-4495,2025-09-16,,Email,Desktop,/,26,7
+S20250916-Em-Mo-9856,2025-09-16,,Email,Mobile,/,43,12
+S20250916-Or-De-8573,2025-09-16,,Organic,Desktop,/,84,29
+S20250916-Or-Mo-2934,2025-09-16,,Organic,Mobile,/,78,27
+S20250916-Re-De-2794,2025-09-16,,Referral,Desktop,/,4,1
+S20250916-Re-Mo-3720,2025-09-16,,Referral,Mobile,/,21,8
+S20250917-Pa-De-6351,2025-09-17,,Paid Search,Desktop,/,110,41
+S20250917-Pa-Mo-2979,2025-09-17,,Paid Search,Mobile,/,39,14
+S20250917-Pa-De-7402,2025-09-17,,Paid Social,Desktop,/,77,38
+S20250917-Pa-Mo-9047,2025-09-17,,Paid Social,Mobile,/,98,48
+S20250917-Em-De-1698,2025-09-17,,Email,Desktop,/,7,2
+S20250917-Em-Mo-1437,2025-09-17,,Email,Mobile,/,90,27
+S20250917-Or-De-6278,2025-09-17,,Organic,Desktop,/,39,11
+S20250917-Or-Mo-1959,2025-09-17,,Organic,Mobile,/,177,52
+S20250917-Re-De-6008,2025-09-17,,Referral,Desktop,/,1,0
+S20250917-Re-Mo-7085,2025-09-17,,Referral,Mobile,/,46,16
+S20250918-Pa-De-2108,2025-09-18,,Paid Search,Desktop,/,25,11
+S20250918-Pa-Mo-3679,2025-09-18,,Paid Search,Mobile,/,54,22
+S20250918-Pa-De-3302,2025-09-18,,Paid Social,Desktop,/,4,2
+S20250918-Pa-Mo-2075,2025-09-18,,Paid Social,Mobile,/,88,41
+S20250918-Em-De-3821,2025-09-18,,Email,Desktop,/,6,1
+S20250918-Em-Mo-3380,2025-09-18,,Email,Mobile,/,29,8
+S20250918-Or-De-9664,2025-09-18,,Organic,Desktop,/,67,22
+S20250918-Or-Mo-2638,2025-09-18,,Organic,Mobile,/,43,15
+S20250918-Re-De-9698,2025-09-18,,Referral,Desktop,/,4,1
+S20250918-Re-Mo-7247,2025-09-18,,Referral,Mobile,/,29,14
+S20250919-Pa-De-6056,2025-09-19,,Paid Search,Desktop,/,21,5
+S20250919-Pa-Mo-8057,2025-09-19,,Paid Search,Mobile,/,136,37
+S20250919-Pa-De-8567,2025-09-19,,Paid Social,Desktop,/,9,4
+S20250919-Pa-Mo-1398,2025-09-19,,Paid Social,Mobile,/,121,61
+S20250919-Em-De-3461,2025-09-19,,Email,Desktop,/,39,9
+S20250919-Em-Mo-9593,2025-09-19,,Email,Mobile,/,23,6
+S20250919-Or-De-6051,2025-09-19,,Organic,Desktop,/,24,9
+S20250919-Or-Mo-1670,2025-09-19,,Organic,Mobile,/,132,52
+S20250919-Re-De-5431,2025-09-19,,Referral,Desktop,/,10,3
+S20250919-Re-Mo-1569,2025-09-19,,Referral,Mobile,/,26,9
+S20250920-Pa-De-2341,2025-09-20,,Paid Search,Desktop,/,32,12
+S20250920-Pa-Mo-3087,2025-09-20,,Paid Search,Mobile,/,205,78
+S20250920-Pa-De-2405,2025-09-20,,Paid Social,Desktop,/,3,1
+S20250920-Pa-Mo-9979,2025-09-20,,Paid Social,Mobile,/,217,105
+S20250920-Em-De-6307,2025-09-20,,Email,Desktop,/,25,7
+S20250920-Em-Mo-5216,2025-09-20,,Email,Mobile,/,87,24
+S20250920-Or-De-7719,2025-09-20,,Organic,Desktop,/,99,35
+S20250920-Or-Mo-5445,2025-09-20,,Organic,Mobile,/,166,58
+S20250920-Re-De-8958,2025-09-20,,Referral,Desktop,/,19,5
+S20250920-Re-Mo-6288,2025-09-20,,Referral,Mobile,/,60,18
+S20250921-Pa-De-9498,2025-09-21,,Paid Search,Desktop,/,225,74
+S20250921-Pa-Mo-9312,2025-09-21,,Paid Search,Mobile,/,30,10
+S20250921-Pa-De-2346,2025-09-21,,Paid Social,Desktop,/,174,89
+S20250921-Pa-Mo-9820,2025-09-21,,Paid Social,Mobile,/,74,37
+S20250921-Em-De-9047,2025-09-21,,Email,Desktop,/,22,7
+S20250921-Em-Mo-5902,2025-09-21,,Email,Mobile,/,103,32
+S20250921-Or-De-1623,2025-09-21,,Organic,Desktop,/,185,67
+S20250921-Or-Mo-2047,2025-09-21,,Organic,Mobile,/,87,31
+S20250921-Re-De-1081,2025-09-21,,Referral,Desktop,/,1,0
+S20250921-Re-Mo-2179,2025-09-21,,Referral,Mobile,/,60,18
+S20250922-Pa-De-3486,2025-09-22,,Paid Search,Desktop,/,6,2
+S20250922-Pa-Mo-6834,2025-09-22,,Paid Search,Mobile,/,139,54
+S20250922-Pa-De-6254,2025-09-22,,Paid Social,Desktop,/,68,27
+S20250922-Pa-Mo-7345,2025-09-22,,Paid Social,Mobile,/,65,27
+S20250922-Em-De-8967,2025-09-22,,Email,Desktop,/,29,7
+S20250922-Em-Mo-6941,2025-09-22,,Email,Mobile,/,32,7
+S20250922-Or-De-2526,2025-09-22,,Organic,Desktop,/,14,4
+S20250922-Or-Mo-1788,2025-09-22,,Organic,Mobile,/,139,47
+S20250922-Re-De-9707,2025-09-22,,Referral,Desktop,/,3,1
+S20250922-Re-Mo-7640,2025-09-22,,Referral,Mobile,/,26,11
+S20250923-Pa-De-4871,2025-09-23,,Paid Search,Desktop,/,10,4
+S20250923-Pa-Mo-6513,2025-09-23,,Paid Search,Mobile,/,111,44
+S20250923-Pa-De-1977,2025-09-23,,Paid Social,Desktop,/,35,16
+S20250923-Pa-Mo-1634,2025-09-23,,Paid Social,Mobile,/,79,35
+S20250923-Em-De-7695,2025-09-23,,Email,Desktop,/,14,4
+S20250923-Em-Mo-8194,2025-09-23,,Email,Mobile,/,42,14
+S20250923-Or-De-4522,2025-09-23,,Organic,Desktop,/,62,24
+S20250923-Or-Mo-5418,2025-09-23,,Organic,Mobile,/,55,21
+S20250923-Re-De-9096,2025-09-23,,Referral,Desktop,/,15,4
+S20250923-Re-Mo-4881,2025-09-23,,Referral,Mobile,/,11,2
+S20250924-Pa-De-3898,2025-09-24,,Paid Search,Desktop,/,19,6
+S20250924-Pa-Mo-6856,2025-09-24,,Paid Search,Mobile,/,87,27
+S20250924-Pa-De-7482,2025-09-24,,Paid Social,Desktop,/,56,24
+S20250924-Pa-Mo-6795,2025-09-24,,Paid Social,Mobile,/,20,8
+S20250924-Em-De-3308,2025-09-24,,Email,Desktop,/,18,1
+S20250924-Em-Mo-5792,2025-09-24,,Email,Mobile,/,21,2
+S20250924-Or-De-1336,2025-09-24,,Organic,Desktop,/,47,17
+S20250924-Or-Mo-2867,2025-09-24,,Organic,Mobile,/,61,22
+S20250924-Re-De-6083,2025-09-24,,Referral,Desktop,/,7,3
+S20250924-Re-Mo-4560,2025-09-24,,Referral,Mobile,/,17,7
+S20250925-Pa-De-3046,2025-09-25,,Paid Search,Desktop,/,58,19
+S20250925-Pa-Mo-3881,2025-09-25,,Paid Search,Mobile,/,60,19
+S20250925-Pa-De-9727,2025-09-25,,Paid Social,Desktop,/,50,24
+S20250925-Pa-Mo-8060,2025-09-25,,Paid Social,Mobile,/,59,29
+S20250925-Em-De-5946,2025-09-25,,Email,Desktop,/,40,9
+S20250925-Em-Mo-6825,2025-09-25,,Email,Mobile,/,11,2
+S20250925-Or-De-7146,2025-09-25,,Organic,Desktop,/,38,11
+S20250925-Or-Mo-5990,2025-09-25,,Organic,Mobile,/,97,29
+S20250925-Re-De-7746,2025-09-25,,Referral,Desktop,/,1,0
+S20250925-Re-Mo-3133,2025-09-25,,Referral,Mobile,/,34,11
+S20250926-Pa-De-7849,2025-09-26,,Paid Search,Desktop,/,5,2
+S20250926-Pa-Mo-7686,2025-09-26,,Paid Search,Mobile,/,135,55
+S20250926-Pa-De-1567,2025-09-26,,Paid Social,Desktop,/,36,16
+S20250926-Pa-Mo-6958,2025-09-26,,Paid Social,Mobile,/,99,44
+S20250926-Em-De-5616,2025-09-26,,Email,Desktop,/,41,9
+S20250926-Em-Mo-6014,2025-09-26,,Email,Mobile,/,11,2
+S20250926-Or-De-4622,2025-09-26,,Organic,Desktop,/,14,4
+S20250926-Or-Mo-1464,2025-09-26,,Organic,Mobile,/,146,48
+S20250926-Re-De-7473,2025-09-26,,Referral,Desktop,/,6,1
+S20250926-Re-Mo-4800,2025-09-26,,Referral,Mobile,/,18,3
+S20250927-Pa-De-3819,2025-09-27,,Paid Search,Desktop,/,92,38
+S20250927-Pa-Mo-3285,2025-09-27,,Paid Search,Mobile,/,48,20
+S20250927-Pa-De-6161,2025-09-27,,Paid Social,Desktop,/,31,15
+S20250927-Pa-Mo-4420,2025-09-27,,Paid Social,Mobile,/,79,39
+S20250927-Em-De-7310,2025-09-27,,Email,Desktop,/,17,4
+S20250927-Em-Mo-7042,2025-09-27,,Email,Mobile,/,44,9
+S20250927-Or-De-5516,2025-09-27,,Organic,Desktop,/,97,29
+S20250927-Or-Mo-2259,2025-09-27,,Organic,Mobile,/,43,13
+S20250927-Re-De-9075,2025-09-27,,Referral,Desktop,/,5,1
+S20250927-Re-Mo-4669,2025-09-27,,Referral,Mobile,/,36,13
+S20250928-Pa-De-5197,2025-09-28,,Paid Search,Desktop,/,13,4
+S20250928-Pa-Mo-1088,2025-09-28,,Paid Search,Mobile,/,185,70
+S20250928-Pa-De-1607,2025-09-28,,Paid Social,Desktop,/,97,49
+S20250928-Pa-Mo-1285,2025-09-28,,Paid Social,Mobile,/,78,40
+S20250928-Em-De-9207,2025-09-28,,Email,Desktop,/,3,1
+S20250928-Em-Mo-9752,2025-09-28,,Email,Mobile,/,70,24
+S20250928-Or-De-9705,2025-09-28,,Organic,Desktop,/,5,2
+S20250928-Or-Mo-7103,2025-09-28,,Organic,Mobile,/,191,71
+S20250928-Re-De-4716,2025-09-28,,Referral,Desktop,/,13,4
+S20250928-Re-Mo-7754,2025-09-28,,Referral,Mobile,/,38,13
+S20250929-Pa-De-5718,2025-09-29,,Paid Search,Desktop,/,9,4
+S20250929-Pa-Mo-3676,2025-09-29,,Paid Search,Mobile,/,132,61
+S20250929-Pa-De-2767,2025-09-29,,Paid Social,Desktop,/,10,4
+S20250929-Pa-Mo-6164,2025-09-29,,Paid Social,Mobile,/,104,47
+S20250929-Em-De-7466,2025-09-29,,Email,Desktop,/,27,7
+S20250929-Em-Mo-6463,2025-09-29,,Email,Mobile,/,19,5
+S20250929-Or-De-3985,2025-09-29,,Organic,Desktop,/,77,21
+S20250929-Or-Mo-6594,2025-09-29,,Organic,Mobile,/,63,18
+S20250929-Re-De-7696,2025-09-29,,Referral,Desktop,/,9,1
+S20250929-Re-Mo-4981,2025-09-29,,Referral,Mobile,/,22,3
+S20250930-Pa-De-2478,2025-09-30,,Paid Search,Desktop,/,22,8
+S20250930-Pa-Mo-5197,2025-09-30,,Paid Search,Mobile,/,81,30
+S20250930-Pa-De-5250,2025-09-30,,Paid Social,Desktop,/,28,14
+S20250930-Pa-Mo-5325,2025-09-30,,Paid Social,Mobile,/,66,32
+S20250930-Em-De-9957,2025-09-30,,Email,Desktop,/,29,6
+S20250930-Em-Mo-3612,2025-09-30,,Email,Mobile,/,22,5
+S20250930-Or-De-3922,2025-09-30,,Organic,Desktop,/,28,9
+S20250930-Or-Mo-9854,2025-09-30,,Organic,Mobile,/,87,30
+S20250930-Re-De-6575,2025-09-30,,Referral,Desktop,/,9,2
+S20250930-Re-Mo-2953,2025-09-30,,Referral,Mobile,/,28,9
